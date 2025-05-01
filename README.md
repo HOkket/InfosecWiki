@@ -190,23 +190,23 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 ## 🕵️‍♂️ Sites para estudar Cyber Security
 
-- [HackXpert](https://hackxpert.com/) - Laboratórios e treinamentos gratuitos.
-- [TryHackMe](https://tryhackme.com/) - Exercícios práticos e laboratórios.
+- [Certified Secure](https://www.certifiedsecure.com/frontpage) - Muitos desafios diferentes.
 - [CyberSecLabs](https://www.cyberseclabs.co.uk/) - Laboratórios de treinamento de alta qualidade.
 - [Cybrary](https://www.cybrary.it/) - Vídeos, laboratórios e exames práticos.
-- [LetsDefend](https://letsdefend.io/) - Plataforma de treinamento da blue team.
-- [Root Me](https://www.root-me.org/) - Mais de 400 desafios de cyber security.
-- [RangeForce](https://www.rangeforce.com/) - Plataforma interativa e prática. 
-- [Certified Secure](https://www.certifiedsecure.com/frontpage) - Muitos desafios diferentes.
-- [Vuln Machines](https://www.vulnmachines.com/) - Cenários do mundo real para praticar.
-- [Try2Hack](https://try2hack.me/) - Jogue um jogo baseado nos ataques reais.
-- [TCM Security](https://academy.tcm-sec.com/) - Cursos de nível básico para cyber security.
 - [EchoCTF](https://echoctf.red/) - Treine suas habilidades ofensivas e defensivas.
 - [Hack The Box](https://www.hackthebox.com/) - Plataforma online de treinamento em cyber security.
-- [Vuln Hub](https://www.vulnhub.com/) - Material para experiência prática.
+- [HackXpert](https://hackxpert.com/) - Laboratórios e treinamentos gratuitos.
+- [LetsDefend](https://letsdefend.io/) - Plataforma de treinamento da blue team.
 - [OverTheWire](https://overthewire.org/wargames/) - Aprenda conceitos de segurança por meio de desafios.
 - [PentesterLab](https://pentesterlab.com/) - Aprenda testes de penetração de aplicativos da web.
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security) - Amplo material didático.
+- [RangeForce](https://www.rangeforce.com/) - Plataforma interativa e prática.
+- [Root Me](https://www.root-me.org/) - Mais de 400 desafios de cyber security.
+- [TCM Security](https://academy.tcm-sec.com/) - Cursos de nível básico para cyber security.
+- [Try2Hack](https://try2hack.me/) - Jogue um jogo baseado nos ataques reais.
+- [TryHackMe](https://tryhackme.com/) - Exercícios práticos e laboratórios.
+- [Vuln Hub](https://www.vulnhub.com/) - Material para experiência prática.
+- [Vuln Machines](https://www.vulnmachines.com/) - Cenários do mundo real para praticar.
 
 ## 📰 Sites de noticias de Cyber Security
 
@@ -341,111 +341,111 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [O que é Segurança de API](https://minutodaseguranca.blog.br/o-que-e-seguranca-de-api/)
 
 > Cursos, videos, artigos, blogs, podcast sobre testes de segurança de API em Inglês
-- [Traceable AI, API Hacking 101](https://www.youtube.com/watch?v=qC8NQFwVOR0&ab_channel=Traceable)
-- [Katie Paxton-Fear, API Hacking](https://www.youtube.com/watch?v=qC8NQFwVOR0&ab_channel=Traceable)
-- [Bad API, hAPI Hackers! by jr0ch17](https://www.youtube.com/watch?v=UT7-ZVawdzA&ab_channel=Bugcrowd)
-- [OWASP API Security Top 10 Webinar](https://www.youtube.com/watch?v=zTkv_9ChVPY&ab_channel=42Crunch)
-- [How to Hack APIs in 2021](https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/)
-- [Let's build an API to hack](https://hackxpert.com/blog/API-Hacking-Excercises/Excercises%207e5f4779cfe34295a0d477a12c05ecbd/Let's%20build%20an%20API%20to%20hack%20-%20Part%201%20The%20basics%2007599097837a4f539104b20376346b7e.html)
-- [Bugcrowd, API Security 101 - Sadako](https://www.youtube.com/watch?v=ijalD2NkRFg&ab_channel=Bugcrowd)
-- [David Bombal, Free API Hacking Course](https://www.youtube.com/watch?v=CkVvB5woQRM&ab_channel=DavidBombal)
-- [How To Hack API In 60 Minutes With Open Source Tools](https://www.wallarm.com/what/how-to-hack-api-in-60-minutes-with-open-source)
-- [APIsecurity IO, API Security Articles](https://apisecurity.io/)
-- [The API Security Maturity Model](https://curity.io/resources/learn/the-api-security-maturity-model/)
 - [API Security Best Practices MegaGuide](https://expeditedsecurity.com/api-security-best-practices-megaguide/)
 - [API Security Testing Workshop - Grant Ongers](https://www.youtube.com/watch?v=l0ISDMUpm68&ab_channel=StackHawk)
-- [The XSS Rat, API Testing And Securing Guide](https://www.youtube.com/playlist?list=PLd92v1QxPOprsg5fTjGBApq4rpb0G-N8L)
-- [APIsec OWASP API Security Top 10: A Deep Dive](https://www.apisec.ai/blog/what-is-owasp-api-security-top-10)
-- [We Hack Purple, API Security Best Practices](https://www.youtube.com/watch?v=F9CN0NE93Qc&ab_channel=WeHackPurple)
-- [Kontra Application Security, Owasp Top 10 for API](https://application.security/free/owasp-top-10-API)
-- [OWASP API Top 10 CTF Walk-through](https://securedelivery.io/articles/api-top-ten-walkthrough/)
-- [How To Hack An API And Get Away With It](https://smartbear.com/blog/api-security-testing-how-to-hack-an-api-part-1/)
-- [Ping Identity, API Security: The Complete Guide 2022](https://www.pingidentity.com/en/resources/blog/post/complete-guide-to-api-security.html)
-- [Analyzing The OWASP API Security Top 10 For Pen Testers](https://www.youtube.com/watch?v=5UTHUZ3NGfw&ab_channel=SANSOffensiveOperations)
-- [Finding and Exploiting Unintended Functionality in Main Web App APIs](https://bendtheory.medium.com/finding-and-exploiting-unintended-functionality-in-main-web-app-apis-6eca3ef000af)
 - [API Security: The Complete Guide to Threats, Methods & Tools](https://brightsec.com/blog/api-security/)
+- [APIsec OWASP API Security Top 10: A Deep Dive](https://www.apisec.ai/blog/what-is-owasp-api-security-top-10)
+- [APIsecurity IO, API Security Articles](https://apisecurity.io/)
+- [Analyzing The OWASP API Security Top 10 For Pen Testers](https://www.youtube.com/watch?v=5UTHUZ3NGfw&ab_channel=SANSOffensiveOperations)
+- [Bad API, hAPI Hackers! by jr0ch17](https://www.youtube.com/watch?v=UT7-ZVawdzA&ab_channel=Bugcrowd)
+- [Bugcrowd, API Security 101 - Sadako](https://www.youtube.com/watch?v=ijalD2NkRFg&ab_channel=Bugcrowd)
+- [David Bombal, Free API Hacking Course](https://www.youtube.com/watch?v=CkVvB5woQRM&ab_channel=DavidBombal)
+- [Finding and Exploiting Unintended Functionality in Main Web App APIs](https://bendtheory.medium.com/finding-and-exploiting-unintended-functionality-in-main-web-app-apis-6eca3ef000af)
+- [How To Hack API In 60 Minutes With Open Source Tools](https://www.wallarm.com/what/how-to-hack-api-in-60-minutes-with-open-source)
+- [How To Hack An API And Get Away With It](https://smartbear.com/blog/api-security-testing-how-to-hack-an-api-part-1/)
+- [How to Hack APIs in 2021](https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/)
+- [Katie Paxton-Fear, API Hacking](https://www.youtube.com/watch?v=qC8NQFwVOR0&ab_channel=Traceable)
+- [Kontra Application Security, Owasp Top 10 for API](https://application.security/free/owasp-top-10-API)
+- [Let's build an API to hack](https://hackxpert.com/blog/API-Hacking-Excercises/Excercises%207e5f4779cfe34295a0d477a12c05ecbd/Let's%20build%20an%20API%20to%20hack%20-%20Part%201%20The%20basics%2007599097837a4f539104b20376346b7e.html)
+- [OWASP API Security Top 10 Webinar](https://www.youtube.com/watch?v=zTkv_9ChVPY&ab_channel=42Crunch)
+- [OWASP API Top 10 CTF Walk-through](https://securedelivery.io/articles/api-top-ten-walkthrough/)
+- [Ping Identity, API Security: The Complete Guide 2022](https://www.pingidentity.com/en/resources/blog/post/complete-guide-to-api-security.html)
+- [The API Security Maturity Model](https://curity.io/resources/learn/the-api-security-maturity-model/)
+- [The XSS Rat, API Testing And Securing Guide](https://www.youtube.com/playlist?list=PLd92v1QxPOprsg5fTjGBApq4rpb0G-N8L)
+- [Traceable AI, API Hacking 101](https://www.youtube.com/watch?v=qC8NQFwVOR0&ab_channel=Traceable)
+- [We Hack Purple, API Security Best Practices](https://www.youtube.com/watch?v=F9CN0NE93Qc&ab_channel=WeHackPurple)
 
 ## 🎥 Canais do Youtube
 
-- [Mente binária](https://www.youtube.com/c/PapoBin%C3%A1rio) - Contéudo geral sobre Cyber Security
-- [Guia Anônima](https://www.youtube.com/user/adsecf) - Contéudo geral sobre Cyber Security
-- [Hak5](https://www.youtube.com/c/hak5) - Contéudo geral sobre Cyber Security
-- [The XSS rat](https://www.youtube.com/c/TheXSSrat) - Tudo sobre Bug Bounty
-- [ITProTV](https://www.youtube.com/c/ItproTv) - Contéudo geral sobre Cyber Security
-- [Infosec](https://www.youtube.com/c/InfoSecInstitute) - Conscientização sobre Cyber Security
-- [Cyrill Gössi](https://www.youtube.com/channel/UCp1rLlh9AQN9Pejzbg9dcAg) - Vídeos de criptografia.
-- [DC CyberSec](https://www.youtube.com/c/DCcybersec) - Contéudo geral sobre Cyber Security
-- [Black Hat](https://www.youtube.com/c/BlackHatOfficialYT) - Conferências técnicas de cibersegurança.
-- [David Bombal](https://www.youtube.com/c/DavidBombal) - Tudo relacionado à segurança cibernética.
-- [Outpost Gray](https://www.youtube.com/c/OutpostGray) - Desenvolvimento de carreira em segurança cibernética.
-- [Bugcrowd](https://www.youtube.com/c/Bugcrowd) - Metodologias de Bug Bounty e entrevistas.
-- [Network Chuck](https://www.youtube.com/c/NetworkChuck) - Tudo relacionado à segurança cibernética.
-- [Professor Messer](https://www.youtube.com/c/professormesser) - Guias cobrindo certificações.
-- [Cyberspatial](https://www.youtube.com/c/Cyberspatial) - Educação e treinamento em segurança cibernética.
-- [OWASP Foundation](https://www.youtube.com/c/OWASPGLOBAL) - Conteúdo de segurança de aplicativos da Web.
-- [Nahamsec](https://www.youtube.com/c/Nahamsec) - Vídeos educativos sobre hackers e bug bounty.
-- [Computerphile](https://www.youtube.com/user/Computerphile) - Abrange conceitos e técnicas básicas.
-- [InfoSec Live](https://www.youtube.com/c/infoseclive) - Tudo, desde tutoriais a entrevistas.
-- [InsiderPHD](https://www.youtube.com/c/InsiderPhD) - Como começar a caçar bugs.
-- [Security Weekly](https://www.youtube.com/c/SecurityWeekly) - Entrevistas com figuras de segurança cibernética.
-- [Hack eXPlorer](https://www.youtube.com/c/HackeXPlorer) - Tutoriais gerais, dicas e técnicas.
-- [Cyber CDH](https://www.youtube.com/c/cybercdh) - Ferramentas, táticas e técnicas de segurança cibernética.
-- [John Hammond](https://www.youtube.com/c/JohnHammond010) - Análise de malware, programação e carreiras.
-- [SANS Offensive Operations](https://www.youtube.com/c/SANSOffensiveOperations) - Vídeos técnicos de segurança cibernética.
 - [13Cubed](https://www.youtube.com/c/13cubed) - Vídeos sobre ferramentas, análise forense e resposta a incidentes.
-- [HackerSploit](https://www.youtube.com/c/HackerSploit) - Teste de penetração, hacking de aplicativos da web.
-- [Z-winK University](https://www.youtube.com/channel/UCDl4jpAVAezUdzsDBDDTGsQ) - Educação e demonstrações de bug bountys.
-- [Peter Yaworski](https://www.youtube.com/c/yaworsk1) - Dicas e entrevistas de hacking de aplicativos da Web.
-- [IppSec](https://www.youtube.com/c/ippsec) - Laboratórios e tutoriais de capture the flag, HackTheBox etc.
-- [Pentester Academy TV](https://www.youtube.com/c/PentesterAcademyTV) - Discussões e ataques demonstrativos.
+- [Black Hat](https://www.youtube.com/c/BlackHatOfficialYT) - Conferências técnicas de cibersegurança.
+- [Black Hills Information Security](https://www.youtube.com/c/BlackHillsInformationSecurity) - Contéudo geral sobre Cyber Security.
 - [BlackPerl](https://www.youtube.com/c/BlackPerl) - Análise de malware, análise forense e resposta a incidentes.
-- [Offensive Security](https://www.youtube.com/c/OffensiveSecurityTraining) - Conteúdo educacional e orientações de laboratório.
+- [Bugcrowd](https://www.youtube.com/c/Bugcrowd) - Metodologias de Bug Bounty e entrevistas.
+- [Computerphile](https://www.youtube.com/user/Computerphile) - Abrange conceitos e técnicas básicas.
+- [Cyber CDH](https://www.youtube.com/c/cybercdh) - Ferramentas, táticas e técnicas de segurança cibernética.
+- [Cyberspatial](https://www.youtube.com/c/Cyberspatial) - Educação e treinamento em segurança cibernética.
+- [Cyrill Gössi](https://www.youtube.com/channel/UCp1rLlh9AQN9Pejzbg9dcAg) - Vídeos de criptografia.
+- [David Bombal](https://www.youtube.com/c/DavidBombal) - Tudo relacionado à segurança cibernética.
 - [Day Cyberwox](https://www.youtube.com/c/DayCyberwox) - Conteúdo útil de segurança na nuvem e orientações.
+- [DC CyberSec](https://www.youtube.com/c/DCcybersec) - Contéudo geral sobre Cyber Security.
 - [DEFCONConference](https://www.youtube.com/user/DEFCONConference) - Tudo do evento de segurança cibernética DEF CON.
-- [STÖK](https://www.youtube.com/c/STOKfredrik) - Vídeos sobre ferramentas, análise de vulnerabilidades e metodologia.
-- [MalwareTechBlog](https://www.youtube.com/c/MalwareTechBlog)- Conteúdo de segurança cibernética e engenharia reversa.
-- [The Hated One](https://www.youtube.com/c/TheHatedOne) - Pesquisa que explica as concepções de segurança cibernética.
-- [Simply Cyber](https://www.youtube.com/c/GeraldAuger) - Ajuda as pessoas com o desenvolvimento de carreira de segurança cibernética.
-- [Black Hills Information Security](https://www.youtube.com/c/BlackHillsInformationSecurity) - Contéudo geral sobre Cyber Security
-- [Security Now](https://www.youtube.com/c/securitynow) - Notícias de crimes cibernéticos, hackers e segurança de aplicativos da web.
-- [The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor) - Hacking ético, hacking de aplicativos da web e ferramentas.
-- [Joe Collins](https://www.youtube.com/user/BadEditPro) - Tudo relacionado ao Linux, incluindo tutoriais e guias.
-- [Null Byte](https://www.youtube.com/c/NullByteWHT) - Segurança cibernética para hackers éticos e cientistas da computação.
+- [Douglas Lockshield](https://www.youtube.com/@DouglasLockshield)
+- [Guia Anônima](https://www.youtube.com/user/adsecf) - Contéudo geral sobre Cyber Security.
+- [Hak5](https://www.youtube.com/c/hak5) - Contéudo geral sobre Cyber Security.
+- [HackerSploit](https://www.youtube.com/c/HackerSploit) - Teste de penetração, hacking de aplicativos da web.
+- [Hack eXPlorer](https://www.youtube.com/c/HackeXPlorer) - Tutoriais gerais, dicas e técnicas.
+- [InfoSec Live](https://www.youtube.com/c/infoseclive) - Tudo, desde tutoriais a entrevistas.
+- [Infosec](https://www.youtube.com/c/InfoSecInstitute) - Conscientização sobre Cyber Security.
+- [InsiderPHD](https://www.youtube.com/c/InsiderPhD) - Como começar a caçar bugs.
+- [IppSec](https://www.youtube.com/c/ippsec) - Laboratórios e tutoriais de capture the flag, HackTheBox etc.
+- [ITProTV](https://www.youtube.com/c/ItproTv) - Contéudo geral sobre Cyber Security.
+- [John Hammond](https://www.youtube.com/c/JohnHammond010) - Análise de malware, programação e carreiras.
 - [LiveOverflow](https://www.youtube.com/c/LiveOverflow) - Envolve hacking, vídeos de gravação e capture the flags.
+- [MalwareTechBlog](https://www.youtube.com/c/MalwareTechBlog) - Conteúdo de segurança cibernética e engenharia reversa.
+- [Mente binária](https://www.youtube.com/c/PapoBin%C3%A1rio) - Contéudo geral sobre Cyber Security.
+- [Nahamsec](https://www.youtube.com/c/Nahamsec) - Vídeos educativos sobre hackers e bug bounty.
+- [Network Chuck](https://www.youtube.com/c/NetworkChuck) - Tudo relacionado à segurança cibernética.
+- [Null Byte](https://www.youtube.com/c/NullByteWHT) - Segurança cibernética para hackers éticos e cientistas da computação.
+- [Offensive Security](https://www.youtube.com/c/OffensiveSecurityTraining) - Conteúdo educacional e orientações de laboratório.
+- [Outpost Gray](https://www.youtube.com/c/OutpostGray) - Desenvolvimento de carreira em segurança cibernética.
+- [OWASP Foundation](https://www.youtube.com/c/OWASPGLOBAL) - Conteúdo de segurança de aplicativos da Web.
+- [Pentester Academy TV](https://www.youtube.com/c/PentesterAcademyTV) - Discussões e ataques demonstrativos.
+- [Peter Yaworski](https://www.youtube.com/c/yaworsk1) - Dicas e entrevistas de hacking de aplicativos da Web.
+- [Professor Messer](https://www.youtube.com/c/professormesser) - Guias cobrindo certificações.
+- [SANS Offensive Operations](https://www.youtube.com/c/SANSOffensiveOperations) - Vídeos técnicos de segurança cibernética.
+- [Security Now](https://www.youtube.com/c/securitynow) - Notícias de crimes cibernéticos, hackers e segurança de aplicativos da web.
+- [Security Weekly](https://www.youtube.com/c/SecurityWeekly) - Entrevistas com figuras de segurança cibernética.
+- [Simply Cyber](https://www.youtube.com/c/GeraldAuger) - Ajuda as pessoas com o desenvolvimento de carreira de segurança cibernética.
+- [STÖK](https://www.youtube.com/c/STOKfredrik) - Vídeos sobre ferramentas, análise de vulnerabilidades e metodologia.
+- [The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor) - Hacking ético, hacking de aplicativos da web e ferramentas.
+- [The Hated One](https://www.youtube.com/c/TheHatedOne) - Pesquisa que explica as concepções de segurança cibernética.
 - [The PC Security Channel](https://www.youtube.com/c/thepcsecuritychannel) - Segurança do Windows, notícias sobre malware e tutoriais.
+- [The XSS rat](https://www.youtube.com/c/TheXSSrat) - Tudo sobre Bug Bounty.
+- [Z-winK University](https://www.youtube.com/channel/UCDl4jpAVAezUdzsDBDDTGsQ) - Educação e demonstrações de bug bountys.
 
 ## 🔎 Ferramentas de busca
 
+- [AlienVault](https://otx.alienvault.com/) - Pesquise e descubra sobre ataques de surfaces.
+- [Binary Edge](https://www.binaryedge.io/) - Verifica a Internet em busca de inteligência de ameaças.
+- [CRT sh](https://crt.sh/) - Procure por certificados que foram registrados pelo CT.
+- [Censys](https://censys.io/) - Avaliando a superfície de ataque para dispositivos conectados à Internet.
 - [Dehashed](https://www.dehashed.com/) - Veja as credenciais vazadas.
-- [SecurityTrails](https://securitytrails.com/) - Extensos dados de DNS.
+- [DNSDumpster](https://dnsdumpster.com/) - Pesquise registros DNS rapidamente.
 - [DorkSearch](https://dorksearch.com/) - Google dorking muito rápido.
 - [ExploitDB](https://www.exploit-db.com/) - Arquivo de vários exploits.
-- [ZoomEye](https://www.zoomeye.org/) - Reúna informações sobre alvos.
-- [Pulsedive](https://pulsedive.com/) - Procure por inteligência de ameaças.
-- [GrayHatWarfare](https://grayhatwarfare.com/) - Pesquise buckets S3 públicos.
-- [PolySwarm](https://polyswarm.io/) - Verifique arquivos e URLs em busca de ameaças.
 - [Fofa](http://fofa.so/) - Procure por várias inteligências de ameaças.
-- [LeakIX](https://leakix.net/) - Pesquise informações indexadas publicamente.
-- [DNSDumpster](https://dnsdumpster.com/) - Pesquise registros DNS rapidamente.
 - [FullHunt](https://fullhunt.io/) - Superfícies de ataque de pesquisa e descoberta.
-- [AlienVault](https://otx.alienvault.com/) - Pesquise e descubra sobre ataques de surfaces.
-- [ONYPHE](https://www.onyphe.io/) - Amplo feed de inteligência de ameaças.
+- [GrayHatWarfare](https://grayhatwarfare.com/) - Pesquise buckets S3 públicos.
+- [GreyNoise](https://www.greynoise.io/) - Procure dispositivos conectados à internet.
 - [Grep App](https://grep.app/) - Coleta dados de inteligência de ameaças cibernéticas.
+- [Hunter](https://hunter.io/) - Pesquise endereços de e-mail pertencentes a um site.
+- [IntelligenceX](https://intelx.io/) - Pesquise Tor, I2P, vazamentos de dados, domínios e e-mails.
+- [LeakIX](https://leakix.net/) - Pesquise informações indexadas publicamente.
+- [Netlas](https://netlas.io/) - Pesquise e monitore ativos conectados à Internet.
+- [ONYPHE](https://www.onyphe.io/) - Amplo feed de inteligência de ameaças.
+- [Packet Storm Security](https://packetstormsecurity.com/) - Navegue pelas vulnerabilidades e explorações mais recentes.
+- [PolySwarm](https://polyswarm.io/) - Verifique arquivos e URLs em busca de ameaças.
+- [PublicWWW](https://publicwww.com/) - Pesquisa de marketing e marketing de afiliados.
+- [Pulsedive](https://pulsedive.com/) - Procure por inteligência de ameaças.
+- [SearchCode](https://searchcode.com/) - Pesquise 75 bilhões de linhas de código de 40 milhões de projetos.
+- [SecurityTrails](https://securitytrails.com/) - Extensos dados de DNS.
+- [Shodan](https://www.shodan.io/) - Procure dispositivos conectados à internet.
 - [URL Scan](https://urlscan.io/) - Pesquise em meio milhão de repositórios git.
 - [Vulners](https://vulners.com/) - Serviço gratuito para digitalizar e analisar sites.
 - [WayBackMachine](https://archive.org/web/) - Visualize o conteúdo de sites excluídos.
-- [Shodan](https://www.shodan.io/) - Procure dispositivos conectados à internet.
-- [Netlas](https://netlas.io/) - Pesquise e monitore ativos conectados à Internet.
-- [CRT sh](https://crt.sh/) - Procure por certificados que foram registrados pelo CT.
 - [Wigle](https://www.wigle.net/) - Banco de dados de redes sem fio, com estatísticas.
-- [PublicWWW](https://publicwww.com/) - Pesquisa de marketing e marketing de afiliados.
-- [Binary Edge](https://www.binaryedge.io/) - Verifica a Internet em busca de inteligência de ameaças.
-- [GreyNoise](https://www.greynoise.io/) - Procure dispositivos conectados à internet.
-- [Hunter](https://hunter.io/) - Pesquise endereços de e-mail pertencentes a um site.
-- [Censys](https://censys.io/) - Avaliando a superfície de ataque para dispositivos conectados à Internet.
-- [IntelligenceX](https://intelx.io/) - Pesquise Tor, I2P, vazamentos de dados, domínios e e-mails.
-- [Packet Storm Security](https://packetstormsecurity.com/) - Navegue pelas vulnerabilidades e explorações mais recentes.
-- [SearchCode](https://searchcode.com/) - Pesquise 75 bilhões de linhas de código de 40 milhões de projetos.
+- [ZoomEye](https://www.zoomeye.org/) - Reúna informações sobre alvos.
 
 ## 📱 Ferramentas de Mobile
 
