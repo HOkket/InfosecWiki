@@ -5,7 +5,6 @@
   <h1 align="center">Guia de Cyber Security</h1>
 </p>
 
-> **Nota:** Este repositório é um fork no qual adicionarei materiais de estudo e conhecimentos adquiridos durante minha jornada em cibersegurança. Para acessar o projeto original, clique [**AQUI**](https://github.com/arthurspk/guiadecybersecurity).
 
 ## :dart: O guia para alavancar a sua carreira
 
