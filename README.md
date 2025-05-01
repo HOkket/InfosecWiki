@@ -380,7 +380,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [Day Cyberwox](https://www.youtube.com/c/DayCyberwox) - Conteúdo útil de segurança na nuvem e orientações.
 - [DC CyberSec](https://www.youtube.com/c/DCcybersec) - Contéudo geral sobre Cyber Security.
 - [DEFCONConference](https://www.youtube.com/user/DEFCONConference) - Tudo do evento de segurança cibernética DEF CON.
-- [Douglas Lockshield](https://www.youtube.com/@DouglasLockshield)
+- [Douglas Lockshield](https://www.youtube.com/@DouglasLockshield) - Contéudo geral sobre Cyber Security.
 - [Guia Anônima](https://www.youtube.com/user/adsecf) - Contéudo geral sobre Cyber Security.
 - [Hak5](https://www.youtube.com/c/hak5) - Contéudo geral sobre Cyber Security.
 - [HackerSploit](https://www.youtube.com/c/HackerSploit) - Teste de penetração, hacking de aplicativos da web.
