@@ -521,13 +521,13 @@ Alguns conteúdos contam com um indicador visual para ajudar a guiar o leitor po
 
 ## 🃏 CheatSheets
 
-- 🟢 [📜 Kali Linux Cheatsheets (INICIANTE)](https://www.comparitech.com/net-admin/kali-linux-cheat-sheet/)
-- 🟢 [🐍 Python Cheatsheets (INICIANTE)](https://www.pythoncheatsheet.org/)
-- 🟢 [💻 Linux Command Line Cheatsheets (INICIANTE)](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)
-- 🟡 [🔍 Nmap Cheatsheets (INTERMEDIÁRIO)](https://www.stationx.net/nmap-cheat-sheet/)
-- 🔴 [🔴 Red Team Cheatsheets (AVANÇADO)](https://0xsp.com/offensive/red-team-cheatsheet/)
-- 🟡 [🔵 Blue Team Cheatsheets (INTERMEDIÁRIO)](https://guidance.ctag.org.uk/blue-team-cheatsheet)
-- 🔴 [🛠️ Pentesting Cheatsheets (AVANÇADO)](https://www.ired.team/offensive-security-experiments/offensive-security-cheetsheets)
+- 🟢 [📜 Kali Linux Cheatsheets](https://www.comparitech.com/net-admin/kali-linux-cheat-sheet/)
+- 🟢 [🐍 Python Cheatsheets](https://www.pythoncheatsheet.org/)
+- 🟢 [💻 Linux Command Line Cheatsheets](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)
+- 🟡 [🔍 Nmap Cheatsheets](https://www.stationx.net/nmap-cheat-sheet/)
+- 🔴 [🔴 Red Team Cheatsheets](https://0xsp.com/offensive/red-team-cheatsheet/)
+- 🟡 [🔵 Blue Team Cheatsheets](https://guidance.ctag.org.uk/blue-team-cheatsheet)
+- 🔴 [🛠️ Pentesting Cheatsheets](https://www.ired.team/offensive-security-experiments/)
 
 ## ♟️ Exploitation
 
