@@ -24,7 +24,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 <div align="center">
 
-> ##  Legenda para identificar o nível de conhecimento do material:
+## 🏷️ Legenda para identificar o nível de conhecimento do material:
 </div>
 
 Alguns conteúdos contam com um indicador visual para ajudar a guiar o leitor por níveis de conhecimento.
@@ -531,10 +531,10 @@ Alguns conteúdos contam com um indicador visual para ajudar a guiar o leitor po
 
 ## ♟️ Exploitation
 
-- [Exploitation Tools](https://github.com/nullsecuritynet/tools)
-- [SSRFmap](https://github.com/swisskyrepo/SSRFmap)
-- [Fuxploider](https://github.com/almandin/fuxploider)
-- [Explotation Windows](https://github.com/Hack-with-Github/Windows)
+- 🟢 [Exploitation Tools](https://github.com/nullsecuritynet/tools)
+- 🟡 [SSRFmap](https://github.com/swisskyrepo/SSRFmap)
+- 🔴 [Fuxploider](https://github.com/almandin/fuxploider)
+- 🔴 [Explotation Windows](https://github.com/Hack-with-Github/Windows)
 
 ## 🎬 Documentários
 
@@ -562,56 +562,56 @@ Alguns conteúdos contam com um indicador visual para ajudar a guiar o leitor po
 
 ## 🚩 Capture the Flag
 
-- [Hacker 101](https://www.hackerone.com/hackers/hacker101)
-- [PicoCTF](https://picoctf.org/)
-- [TryHackMe](https://tryhackme.com)
-- [HackTheBox](https://www.hackthebox.com/)
-- [VulnHub](https://www.vulnhub.com/)
-- [HackThisSite](https://hackthissite.org/)
-- [CTFChallenge](https://ctfchallenge.co.uk/)
-- [Attack-Defense](https://attackdefense.com/)
-- [Alert to win](https://alf.nu/alert1)
-- [Bancocn](https://bancocn.com/)
-- [CTF Komodo Security](https://ctf.komodosec.com/)
-- [CryptoHack](https://cryptohack.org/)
-- [CMD Challenge](https://cmdchallenge.com/http://overthewire.org/)
-- [Explotation Education](https://exploit.education/)
-- [Google CTF](https://lnkd.in/e46drbz8)
-- [Hackthis](https://www.hackthis.co.uk/)
-- [Hacksplaining](https://lnkd.in/eAB5CSTA)
-- [Hacker Security](https://lnkd.in/ex7R-C-e)
-- [Hacking-Lab](https://hacking-lab.com/)
-- [HSTRIKE](https://hstrike.com/)
-- [ImmersiveLabs](https://immersivelabs.com/)
-- [NewbieContest](https://lnkd.in/ewBk6fU5)
-- [OverTheWire](http://overthewire.org/)
-- [Practical Pentest Labs](https://lnkd.in/esq9Yuv5)
-- [Pentestlab](https://pentesterlab.com/)
-- [Hackaflag BR](https://hackaflag.com.br/)
-- [Penetration Testing Practice Labs](https://lnkd.in/e6wVANYd)
-- [PWNABLE](https://lnkd.in/eMEwBJzn)
-- [Root-Me](https://www.root-me.org/)
-- [Root in Jail](http://rootinjail.com/)
-- [SANS Challenger](https://lnkd.in/e5TAMawK)
-- [SmashTheStack](https://lnkd.in/eVn9rP9p)
-- [The Cryptopals Crypto Challenges](https://cryptopals.com/)
-- [W3Challs](https://w3challs.com/)
-- [WeChall](http://www.wechall.net/)
-- [Zenk-Security](https://lnkd.in/ewJ5rNx2)
-- [Cyber Defenders](https://lnkd.in/dVcmjEw8)
-- [LetsDefend](https://letsdefend.io/)
-- [Vulnmachines](https://vulnmachines.com/)
-- [Rangeforce](https://www.rangeforce.com/)
-- [Ctftime](https://ctftime.org/)
-- [Pwn college](https://dojo.pwn.college/)
-- [Free Money CTF](https://bugbase.in/)
-- [PortSwigger Web Security Academy](https://portswigger.net/web-security)
-- [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
-- [XSSGame](https://xss-game.appspot.com/)
-- [BugBountyHunter](https://www.bugbountyhunter.com/)
-- [DVWA](https://dvwa.co.uk/)
-- [bWAPP](http://www.itsecgames.com/)
-- [Metasploitable2](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/)
+- 🟢 [Hacker 101](https://www.hackerone.com/hackers/hacker101)
+- 🟢 [PicoCTF](https://picoctf.org/)
+- 🟡 [TryHackMe](https://tryhackme.com)
+- 🔴 [HackTheBox](https://www.hackthebox.com/)
+- 🟡 [VulnHub](https://www.vulnhub.com/)
+- 🟢 [HackThisSite](https://hackthissite.org/)
+- 🟡 [CTFChallenge](https://ctfchallenge.co.uk/)
+- 🟡 [Attack-Defense](https://attackdefense.com/)
+- 🟢 [Alert to win](https://alf.nu/alert1)
+- 🟡 [Bancocn](https://bancocn.com/)
+- 🟡 [CTF Komodo Security](https://ctf.komodosec.com/)
+- 🟢 [CryptoHack](https://cryptohack.org/)
+- 🟢 [CMD Challenge](https://cmdchallenge.com/http://overthewire.org/)
+- 🟡 [Explotation Education](https://exploit.education/)
+- 🔴 [Google CTF](https://lnkd.in/e46drbz8)
+- 🟢 [Hackthis](https://www.hackthis.co.uk/)
+- 🟢 [Hacksplaining](https://lnkd.in/eAB5CSTA)
+- 🟡 [Hacker Security](https://lnkd.in/ex7R-C-e)
+- 🟡 [Hacking-Lab](https://hacking-lab.com/)
+- 🟡 [HSTRIKE](https://hstrike.com/)
+- 🟡 [ImmersiveLabs](https://immersivelabs.com/)
+- 🟢 [NewbieContest](https://lnkd.in/ewBk6fU5)
+- 🟢 [OverTheWire](http://overthewire.org/)
+- 🟡 [Practical Pentest Labs](https://lnkd.in/esq9Yuv5)
+- 🟡 [Pentestlab](https://pentesterlab.com/)
+- 🟡 [Hackaflag BR](https://hackaflag.com.br/)
+- 🟡 [Penetration Testing Practice Labs](https://lnkd.in/e6wVANYd)
+- 🟡 [PWNABLE](https://lnkd.in/eMEwBJzn)
+- 🟡 [Root-Me](https://www.root-me.org/)
+- 🟡 [Root in Jail](http://rootinjail.com/)
+- 🟡 [SANS Challenger](https://lnkd.in/e5TAMawK)
+- 🟡 [SmashTheStack](https://lnkd.in/eVn9rP9p)
+- 🟢 [The Cryptopals Crypto Challenges](https://cryptopals.com/)
+- 🟡 [W3Challs](https://w3challs.com/)
+- 🟡 [WeChall](http://www.wechall.net/)
+- 🟡 [Zenk-Security](https://lnkd.in/ewJ5rNx2)
+- 🟡 [Cyber Defenders](https://lnkd.in/dVcmjEw8)
+- 🟡 [LetsDefend](https://letsdefend.io/)
+- 🟡 [Vulnmachines](https://vulnmachines.com/)
+- 🟡 [Rangeforce](https://www.rangeforce.com/)
+- 🟡 [Ctftime](https://ctftime.org/)
+- 🟡 [Pwn college](https://dojo.pwn.college/)
+- 🟢 [Free Money CTF](https://bugbase.in/)
+- 🟢 [PortSwigger Web Security Academy](https://portswigger.net/web-security)
+- 🟢 [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
+- 🟢 [XSSGame](https://xss-game.appspot.com/)
+- 🟡 [BugBountyHunter](https://www.bugbountyhunter.com/)
+- 🟢 [DVWA](https://dvwa.co.uk/)
+- 🟢 [bWAPP](http://www.itsecgames.com/)
+- 🟢 [Metasploitable2](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/)
 
 ## 🐧 Distros de Linux
 
@@ -641,7 +641,7 @@ Alguns conteúdos contam com um indicador visual para ajudar a guiar o leitor po
 
 ## 💰 Sites de Bug Bounty
 
-- [Bug Crowd - Bug Bounty List](https://www.bugcrowd.com/bug-bounty-list/)
+- 🟢 [Bug Crowd - Bug Bounty List](https://www.bugcrowd.com/bug-bounty-list/)
 
 ## 🦤 Perfis no Twitter
 
@@ -735,108 +735,101 @@ Alguns conteúdos contam com um indicador visual para ajudar a guiar o leitor po
 ## 📚 Recomendações de livros
 
 > Recomendação de livros para aprimoramento do conhecimento em Cyber Security em Português 
-- [📘 Introdução ao Pentest](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-ao-Pentest-Daniel-Moreno/dp/8575228072/ref=asc_df_8575228072/?tag=googleshopp00-20&linkCode=df0&hvadid=379773616949&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-850530960141&psc=1)
-- [🌐 Pentest em Aplicações Web](https://www.amazon.com.br/Pentest-Aplica%C3%A7%C3%B5es-Web-Daniel-Moreno/dp/8575226134/ref=pd_bxgy_img_sccl_1/145-1578869-2329559?pd_rd_w=2dTdj&content-id=amzn1.sym.57f5b0c5-8f2e-45a4-8595-2eb0fcbe85cd&pf_rd_p=57f5b0c5-8f2e-45a4-8595-2eb0fcbe85cd&pf_rd_r=DSSS27BQRN1MT8XSNT55&pd_rd_wg=smd9N&pd_rd_r=cc5197e3-0659-4e91-98fd-07a7b7b3c6aa&pd_rd_i=8575226134&psc=1)
-- [📡 Pentest em Redes sem Fio](https://www.amazon.com.br/Pentest-em-Redes-sem-Fio/dp/8575224832/ref=pd_bxgy_img_sccl_2/145-1578869-2329559?pd_rd_w=2dTdj&content-id=amzn1.sym.57f5b0c5-8f2e-45a4-8595-2eb0fcbe85cd&pf_rd_p=57f5b0c5-8f2e-45a4-8595-2eb0fcbe85cd&pf_rd_r=DSSS27BQRN1MT8XSNT55&pd_rd_wg=smd9N&pd_rd_r=cc5197e3-0659-4e91-98fd-07a7b7b3c6aa&pd_rd_i=8575224832&psc=1)
-- [🔍 Exploração de Vulnerabilidades em Redes TCP/IP](https://www.amazon.com.br/Explora%C3%A7%C3%A3o-vulnerabilidade-Rede-TCP-IP/dp/8550800708/ref=asc_df_8550800708/?tag=googleshopp00-20&linkCode=df0&hvadid=379765802390&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-423299859071&psc=1)
-- [📊 Algoritmos de Destruição em Massa](https://www.amazon.com.br/Algoritmos-Destrui%C3%A7%C3%A3o-Massa-Cathy-ONeil/dp/6586460026/ref=asc_df_6586460026/?tag=googleshopp00-20&linkCode=df0&hvadid=379792431986&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-1007895878384&psc=1)
-- [🐧 Kali Linux: Introdução ao Penetration Testing](https://www.amazon.com.br/Kali-Linux-Introdu%C3%A7%C3%A3o-Penetration-Testing/dp/8539906236/ref=asc_df_8539906236/?tag=googleshopp00-20&linkCode=df0&hvadid=379787347388&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-421604521830&psc=1)
-- [🔐 Criptografia e Segurança de Redes: Princípios e Práticas](https://www.amazon.com.br/Criptografia-seguran%C3%A7a-redes-princ%C3%ADpios-pr%C3%A1ticas/dp/8543005892/ref=asc_df_8543005892/?tag=googleshopp00-20&linkCode=df0&hvadid=379792581512&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-810094894442&psc=1)
-- [📈 Análise de Tráfego em Redes TCP/IP](https://www.amazon.com.br/An%C3%A1lise-Tr%C3%A1fego-Redes-TCP-IP/dp/8575223755/ref=asc_df_8575223755/?tag=googleshopp00-20&linkCode=df0&hvadid=379818494621&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-396355445891&psc=1)
-- [🛡️ Segurança de Computadores e Teste de Invasão](https://www.amazon.com.br/Seguran%C3%A7a-computadores-teste-invas%C3%A3o-Alfred/dp/8522117993/ref=asc_df_8522117993/?tag=googleshopp00-20&linkCode=df0&hvadid=379765802390&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-394932359707&psc=1)
-- [💻 Ransomware: Defendendo-se da Extorsão Digital](https://www.amazon.com.br/Ransomware-Defendendo-Se-Extors%C3%A3o-Allan-Liska/dp/8575225510/ref=asc_df_8575225510/?tag=googleshopp00-20&linkCode=df0&hvadid=379818494621&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-812784633318&psc=1)
-- [📖 Fundamentos de Segurança da Informação](https://www.amazon.com.br/Fundamentos-Seguran%C3%A7a-Informa%C3%A7%C3%A3o-27001-27002/dp/8574528609/ref=asc_df_8574528609/?tag=googleshopp00-20&linkCode=df0&hvadid=379787347388&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-809202559856&psc=1)
-- [🔍 Testes de Invasão: Uma Introdução Prática ao Hacking](https://www.amazon.com.br/Testes-Invas%C3%A3o-Georgia-Weidman/dp/8575224077/ref=asc_df_8575224077/?tag=googleshopp00-20&linkCode=df0&hvadid=379739109739&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-332577553663&psc=1)
-- [🌐 CISEF - Segurança Cibernética: Uma Questão de Sobrevivência](https://www.amazon.com.br/CISEF-Seguran%C3%A7a-Cibern%C3%A9tica-Quest%C3%A3o-Sobreviv%C3%AAncia/dp/B097TPYCGG/ref=asc_df_B097TPYCGG/?tag=googleshopp00-20&linkCode=df0&hvadid=379715964603&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-1430488033379&psc=1)
-- [🐍 Black Hat Python: Programação Python Para Hackers e Pentesters](https://www.amazon.com.br/Black-Hat-Python-Justin-Seitz/dp/8575224204)
+- 🟢 [📘 Introdução ao Pentest](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-ao-Pentest-Daniel-Moreno/dp/8575228072/ref=asc_df_8575228072/?tag=googleshopp00-20&linkCode=df0&hvadid=379773616949&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-850530960141&psc=1)
+- 🟡 [🌐 Pentest em Aplicações Web](https://www.amazon.com.br/Pentest-Aplica%C3%A7%C3%B5es-Web-Daniel-Moreno/dp/8575226134/ref=pd_bxgy_img_sccl_1/145-1578869-2329559?pd_rd_w=2dTdj&content-id=amzn1.sym.57f5b0c5-8f2e-45a4-8595-2eb0fcbe85cd&pf_rd_p=57f5b0c5-8f2e-45a4-8595-2eb0fcbe85cd&pf_rd_r=DSSS27BQRN1MT8XSNT55&pd_rd_wg=smd9N&pd_rd_r=cc5197e3-0659-4e91-98fd-07a7b7b3c6aa&pd_rd_i=8575226134&psc=1)
+- 🟡 [📡 Pentest em Redes sem Fio](https://www.amazon.com.br/Pentest-em-Redes-sem-Fio/dp/8575224832/ref=pd_bxgy_img_sccl_2/145-1578869-2329559?pd_rd_w=2dTdj&content-id=amzn1.sym.57f5b0c5-8f2e-45a4-8595-2eb0fcbe85cd&pf_rd_p=57f5b0c5-8f2e-45a4-8595-2eb0fcbe85cd&pf_rd_r=DSSS27BQRN1MT8XSNT55&pd_rd_wg=smd9N&pd_rd_r=cc5197e3-0659-4e91-98fd-07a7b7b3c6aa&pd_rd_i=8575224832&psc=1)
+- 🟡 [🔍 Exploração de Vulnerabilidades em Redes TCP/IP](https://www.amazon.com.br/Explora%C3%A7%C3%A3o-vulnerabilidade-Rede-TCP-IP/dp/8550800708/ref=asc_df_8550800708/?tag=googleshopp00-20&linkCode=df0&hvadid=379765802390&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-423299859071&psc=1)
+- 🟡 [📊 Algoritmos de Destruição em Massa](https://www.amazon.com.br/Algoritmos-Destrui%C3%A7%C3%A3o-Massa-Cathy-ONeil/dp/6586460026/ref=asc_df_6586460026/?tag=googleshopp00-20&linkCode=df0&hvadid=379792431986&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-1007895878384&psc=1)
+- 🟢 [🐧 Kali Linux: Introdução ao Penetration Testing](https://www.amazon.com.br/Kali-Linux-Introdu%C3%A7%C3%A3o-Penetration-Testing/dp/8539906236/ref=asc_df_8539906236/?tag=googleshopp00-20&linkCode=df0&hvadid=379787347388&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-421604521830&psc=1)
+- 🟡 [🔐 Criptografia e Segurança de Redes: Princípios e Práticas](https://www.amazon.com.br/Criptografia-seguran%C3%A7a-redes-princ%C3%ADpios-pr%C3%A1ticas/dp/8543005892/ref=asc_df_8543005892/?tag=googleshopp00-20&linkCode=df0&hvadid=379792581512&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-810094894442&psc=1)
+- 🟡 [📈 Análise de Tráfego em Redes TCP/IP](https://www.amazon.com.br/An%C3%A1lise-Tr%C3%A1fego-Redes-TCP-IP/dp/8575223755/ref=asc_df_8575223755/?tag=googleshopp00-20&linkCode=df0&hvadid=379818494621&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-396355445891&psc=1)
+- 🟢 [🛡️ Segurança de Computadores e Teste de Invasão](https://www.amazon.com.br/Seguran%C3%A7a-computadores-teste-invas%C3%A3o-Alfred/dp/8522117993/ref=asc_df_8522117993/?tag=googleshopp00-20&linkCode=df0&hvadid=379765802390&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-394932359707&psc=1)
+- 🟡 [💻 Ransomware: Defendendo-se da Extorsão Digital](https://www.amazon.com.br/Ransomware-Defendendo-Se-Extors%C3%A3o-Allan-Liska/dp/8575225510/ref=asc_df_8575225510/?tag=googleshopp00-20&linkCode=df0&hvadid=379818494621&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-812784633318&psc=1)
+- 🟢 [📖 Fundamentos de Segurança da Informação](https://www.amazon.com.br/Fundamentos-Seguran%C3%A7a-Informa%C3%A7%C3%A3o-27001-27002/dp/8574528609/ref=asc_df_8574528609/?tag=googleshopp00-20&linkCode=df0&hvadid=379787347388&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-809202559856&psc=1)
+- 🟢 [🔍 Testes de Invasão: Uma Introdução Prática ao Hacking](https://www.amazon.com.br/Testes-Invas%C3%A3o-Georgia-Weidman/dp/8575224077/ref=asc_df_8575224077/?tag=googleshopp00-20&linkCode=df0&hvadid=379739109739&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-332577553663&psc=1)
+- 🟡 [🌐 CISEF - Segurança Cibernética: Uma Questão de Sobrevivência](https://www.amazon.com.br/CISEF-Seguran%C3%A7a-Cibern%C3%A9tica-Quest%C3%A3o-Sobreviv%C3%AAncia/dp/B097TPYCGG/ref=asc_df_B097TPYCGG/?tag=googleshopp00-20&linkCode=df0&hvadid=379715964603&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-1430488033379&psc=1)
+- 🟡 [🐍 Black Hat Python: Programação Python Para Hackers e Pentesters](https://www.amazon.com.br/Black-Hat-Python-Justin-Seitz/dp/8575224204)
 
 > Recomendação de livros para aprimoramento do conhecimento em Cyber Security em Inglês
-- [Hacking: The Art of Exploitation](https://www.amazon.com.br/Hacking-Exploitation-CDROM-Jon-Erickson/dp/1593271441)
-- [Penetration Testing: A Hands-On Introduction to Hacking](https://www.amazon.com.br/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641)
-- [The Hacker Playbook 2: Practical Guide to Penetration Testing](https://www.amazon.com.br/Hacker-Playbook-Practical-Penetration-Testing/dp/1512214566)
-- [The Basics of Hacking and Penetration Testing: Ethical Hacking and Penetration Testing Made Easy](https://www.amazon.com.br/Basics-Hacking-Penetration-Testing-Ethical/dp/0124116442)
-- [The Hacker Playbook 3: Practical Guide To Penetration Testing](https://www.amazon.com.br/Hacker-Playbook-Practical-Penetration-Testing-ebook/dp/B07CSPFYZ2)
-- [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws](https://www.amazon.com.br/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470)
-- [Web Hacking 101](https://www.goodreads.com/book/show/33596532-web-hacking-101)
-- [Mastering Modern Web Penetration Testing](https://www.amazon.com.br/Mastering-Modern-Penetration-Testing-English-ebook/dp/B01GVMSTEO)
-- [Bug Bounty Playbook](https://payhip.com/b/wAoh)
-- [Real-World Bug Hunting: A Field Guide to Web Hacking](https://www.amazon.com.br/Real-World-Bug-Hunting-Field-Hacking/dp/1593278616)
-- [OWASP Testing Guide V10](https://owasp.org/www-project-web-security-testing-guide/assets/archive/OWASP_Testing_Guide_v4.pdf)
-- [Black Hat Python: Python Programming for Hackers and Pentesters](https://www.amazon.com.br/Black-Hat-Python-Programming-Pentesters/dp/1593275900/ref=asc_df_1593275900/?tag=googleshopp00-20&linkCode=df0&hvadid=379726160779&hvpos=&hvnetw=g&hvrand=12817915842755546773&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-406163956473&psc=1)
-- [Black Hat Python, 2nd Edition: Python Programming for Hackers and Pentesters](https://www.amazon.com.br/Black-Hat-Python-2nd-Programming/dp/1718501129/ref=asc_df_1718501129/?tag=googleshopp00-20&linkCode=df0&hvadid=379787788238&hvpos=&hvnetw=g&hvrand=12817915842755546773&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-1129943149832&psc=1)
-- [Black Hat Go: Go Programming for Hackers and Pentesters](https://www.amazon.com.br/Black-Hat-Go-Programming-Pentesters/dp/1593278659/ref=asc_df_1593278659/?tag=googleshopp00-20&linkCode=df0&hvadid=379787788238&hvpos=&hvnetw=g&hvrand=12817915842755546773&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-872661430541&psc=1)
-- [Advanced Penetration Testing: Hacking the World's Most Secure Networks](https://www.amazon.com.br/Advanced-Penetration-Testing-Hacking-Networks/dp/1119367689)
-- [Gray Hat Hacking: The Ethical Hacker's Handbook ](https://www.amazon.com.br/Gray-Hat-Hacking-Ethical-Handbook/dp/0072257091)
-- [Social Engineering: The Art of Human Hacking](https://www.amazon.com.br/Social-Engineering-Art-Human-Hacking/dp/0470639539)
-- [Social Engineering: The Science of Human Hacking](https://www.amazon.com.br/Social-Engineering-Science-Human-Hacking/dp/111943338X/ref=asc_df_111943338X/?tag=googleshopp00-20&linkCode=df0&hvadid=379726160779&hvpos=&hvnetw=g&hvrand=10534013289063384157&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-490758470823&psc=1)
-- [Practical Social Engineering: A Primer for the Ethical Hacker](https://www.amazon.com.br/Practical-Social-Engineering-Joe-Gray/dp/171850098X/ref=asc_df_171850098X/?tag=googleshopp00-20&linkCode=df0&hvadid=379735814613&hvpos=&hvnetw=g&hvrand=10534013289063384157&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-934732928526&psc=1)
-- [Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software](https://www.amazon.com.br/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901/ref=asc_df_1593272901/?tag=googleshopp00-20&linkCode=df0&hvadid=379735814613&hvpos=&hvnetw=g&hvrand=18239998534715401467&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-406163956073&psc=1)
-- [Practical Binary Analysis: Build Your Own Linux Tools for Binary Instrumentation, Analysis, and Disassembly](https://www.amazon.com.br/Practical-Binary-Analysis-Instrumentation-Disassembly/dp/1593279124/ref=asc_df_1593279124/?tag=googleshopp00-20&linkCode=df0&hvadid=379726160779&hvpos=&hvnetw=g&hvrand=18239998534715401467&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-525099683939&psc=1)
-- [Rootkits and Bootkits: Reversing Modern Malware and Next Generation Threats](https://www.amazon.com.br/Rootkits-Bootkits-Reversing-Malware-Generation/dp/1593277164/ref=asc_df_1593277164/?tag=googleshopp00-20&linkCode=df0&hvadid=379735814613&hvpos=&hvnetw=g&hvrand=18239998534715401467&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-326856398373&psc=1)
-- [Malware Data Science: Attack Detection and Attribution](https://www.amazon.com.br/Malware-Data-Science-Detection-Attribution/dp/1593278594/ref=asc_df_1593278594/?tag=googleshopp00-20&linkCode=df0&hvadid=379726160779&hvpos=&hvnetw=g&hvrand=18239998534715401467&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-526160276073&psc=1)
-- [The Art of Mac Malware: The Guide to Analyzing Malicious Software](https://www.amazon.com.br/Art-Mac-Malware-Analyzing-Malicious/dp/1718501943/ref=asc_df_1718501943/?tag=googleshopp00-20&linkCode=df0&hvadid=379726160779&hvpos=&hvnetw=g&hvrand=18239998534715401467&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-1435226984335&psc=1)
-- [Android Hacker's Handbook](https://www.amazon.com.br/Android-Hackers-Handbook-Joshua-Drake/dp/111860864X/ref=asc_df_111860864X/?tag=googleshopp00-20&linkCode=df0&hvadid=379735814613&hvpos=&hvnetw=g&hvrand=18239998534715401467&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-459716102046&psc=1)
-- [Metasploit: The Penetration Tester's Guide](https://www.amazon.com.br/Metasploit-Penetration-Testers-David-Kennedy/dp/159327288X)
-- [Rtfm: Red Team Field Manual](https://www.amazon.com.br/Rtfm-Red-Team-Field-Manual/dp/1494295504)
-- [Blue Team Field Manual (BTFM)](https://www.amazon.com.br/Blue-Team-Field-Manual-Btfm/dp/154101636X)
+- 🟢 [Hacking: The Art of Exploitation](https://www.amazon.com.br/Hacking-Exploitation-CDROM-Jon-Erickson/dp/1593271441)
+- 🟢 [Penetration Testing: A Hands-On Introduction to Hacking](https://www.amazon.com.br/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641)
+- 🟡 [The Hacker Playbook 2: Practical Guide to Penetration Testing](https://www.amazon.com.br/Hacker-Playbook-Practical-Penetration-Testing/dp/1512214566)
+- 🟡 [The Basics of Hacking and Penetration Testing: Ethical Hacking and Penetration Testing Made Easy](https://www.amazon.com.br/Basics-Hacking-Penetration-Testing-Ethical/dp/0124116442)
+- 🟡 [The Hacker Playbook 3: Practical Guide To Penetration Testing](https://www.amazon.com.br/Hacker-Playbook-Practical-Penetration-Testing-ebook/dp/B07CSPFYZ2)
+- 🟡 [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws](https://www.amazon.com.br/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470)
+- 🟢 [Web Hacking 101](https://www.goodreads.com/book/show/33596532-web-hacking-101)
+- 🟡 [Mastering Modern Web Penetration Testing](https://www.amazon.com.br/Mastering-Modern-Penetration-Testing-English-ebook/dp/B01GVMSTEO)
+- 🟡 [Bug Bounty Playbook](https://payhip.com/b/wAoh)
+- 🟡 [Real-World Bug Hunting: A Field Guide to Web Hacking](https://www.amazon.com.br/Real-World-Bug-Hunting-Field-Hacking/dp/1593278616)
+- 🟢 [OWASP Testing Guide V10](https://owasp.org/www-project-web-security-testing-guide/assets/archive/OWASP_Testing_Guide_v4.pdf)
+- 🟡 [Black Hat Python: Python Programming for Hackers and Pentesters](https://www.amazon.com.br/Black-Hat-Python-Programming-Pentesters/dp/1593275900/ref=asc_df_1593275900/?tag=googleshopp00-20&linkCode=df0&hvadid=379726160779&hvpos=&hvnetw=g&hvrand=12817915842755546773&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-406163956473&psc=1)
+- 🟡 [Black Hat Python, 2nd Edition: Python Programming for Hackers and Pentesters](https://www.amazon.com.br/Black-Hat-Python-2nd-Programming/dp/1718501129/ref=asc_df_1718501129/?tag=googleshopp00-20&linkCode=df0&hvadid=379787788238&hvpos=&hvnetw=g&hvrand=12817915842755546773&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-1129943149832&psc=1)
+- 🟡 [Black Hat Go: Go Programming for Hackers and Pentesters](https://www.amazon.com.br/Black-Hat-Go-Programming-Pentesters/dp/1593278659/ref=asc_df_1593278659/?tag=googleshopp00-20&linkCode=df0&hvadid=379787788238&hvpos=&hvnetw=g&hvrand=12817915842755546773&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-872661430541&psc=1)
+- 🔴 [Advanced Penetration Testing: Hacking the World's Most Secure Networks](https://www.amazon.com.br/Advanced-Penetration-Testing-Hacking-Networks/dp/1119367689)
+- 🟡 [Gray Hat Hacking: The Ethical Hacker's Handbook](https://www.amazon.com.br/Gray-Hat-Hacking-Ethical-Handbook/dp/0072257091)
+- 🟡 [Social Engineering: The Art of Human Hacking](https://www.amazon.com.br/Social-Engineering-Art-Human-Hacking/dp/0470639539)
+- 🟡 [Social Engineering: The Science of Human Hacking](https://www.amazon.com.br/Social-Engineering-Science-Human-Hacking/dp/111943338X/ref=asc_df_111943338X/?tag=googleshopp00-20&linkCode=df0&hvadid=379726160779&hvpos=&hvnetw=g&hvrand=10534013289063384157&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-490758470823&psc=1)
+- 🟡 [Practical Social Engineering: A Primer for the Ethical Hacker](https://www.amazon.com.br/Practical-Social-Engineering-Joe-Gray/dp/171850098X/ref=asc_df_171850098X/?tag=googleshopp00-20&linkCode=df0&hvadid=379735814613&hvpos=&hvnetw=g&hvrand=10534013289063384157&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-934732928526&psc=1)
+- 🔴 [Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software](https://www.amazon.com.br/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901/ref=asc_df_1593272901/?tag=googleshopp00-20&linkCode=df0&hvadid=379735814613&hvpos=&hvnetw=g&hvrand=18239998534715401467&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-406163956073&psc=1)
+- 🔴 [Practical Binary Analysis: Build Your Own Linux Tools for Binary Instrumentation, Analysis, and Disassembly](https://www.amazon.com.br/Practical-Binary-Analysis-Instrumentation-Disassembly/dp/1593279124/ref=asc_df_1593279124/?tag=googleshopp00-20&linkCode=df0&hvadid=379726160779&hvpos=&hvnetw=g&hvrand=18239998534715401467&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-525099683939&psc=1)
+- 🔴 [Rootkits and Bootkits: Reversing Modern Malware and Next Generation Threats](https://www.amazon.com.br/Rootkits-Bootkits-Reversing-Malware-Generation/dp/1593277164/ref=asc_df_1593277164/?tag=googleshopp00-20&linkCode=df0&hvadid=379735814613&hvpos=&hvnetw=g&hvrand=18239998534715401467&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-326856398373&psc=1)
+- 🔴 [Malware Data Science: Attack Detection and Attribution](https://www.amazon.com.br/Malware-Data-Science-Detection-Attribution/dp/1593278594/ref=asc_df_1593278594/?tag=googleshopp00-20&linkCode=df0&hvadid=379726160779&hvpos=&hvnetw=g&hvrand=18239998534715401467&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-526160276073&psc=1)
+- 🔴 [The Art of Mac Malware: The Guide to Analyzing Malicious Software](https://www.amazon.com.br/Art-Mac-Malware-Analyzing-Malicious/dp/1718501943/ref=asc_df_1718501943/?tag=googleshopp00-20&linkCode=df0&hvadid=379726160779&hvpos=&hvnetw=g&hvrand=18239998534715401467&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-1435226984335&psc=1)
+- 🟡 [Android Hacker's Handbook](https://www.amazon.com.br/Android-Hackers-Handbook-Joshua-Drake/dp/111860864X/ref=asc_df_111860864X/?tag=googleshopp00-20&linkCode=df0&hvadid=379735814613&hvpos=&hvnetw=g&hvrand=18239998534715401467&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-459716102046&psc=1)
+- 🟡 [Metasploit: The Penetration Tester's Guide](https://www.amazon.com.br/Metasploit-Penetration-Testers-David-Kennedy/dp/159327288X)
+- 🟡 [Rtfm: Red Team Field Manual](https://www.amazon.com.br/Rtfm-Red-Team-Field-Manual/dp/1494295504)
+- 🟡 [Blue Team Field Manual (BTFM)](https://www.amazon.com.br/Blue-Team-Field-Manual-Btfm/dp/154101636X)
 
-## 🛠️ Frameworks e ferramentas de Hacking Web
 
 ## 🛠️ Frameworks e Ferramentas de Hacking Web
 
-- [Burp Suite](https://portswigger.net/burp) - 🛠️ Framework.
-- [ZAP Proxy](https://www.zaproxy.org/) - 🛠️ Framework.
-- [Dirsearch](https://github.com/maurosoria/dirsearch) - 🔍 HTTP bruteforcing.
-- [Nmap](https://nmap.org/) - 🔍 Port scanning.
-- [Sublist3r](https://github.com/aboul3la/Sublist3r) - 🌐 Subdomain discovery.
-- [Amass](https://github.com/OWASP/Amass) - 🌐 Subdomain discovery.
-- [SQLmap](https://sqlmap.org/) - 💉 SQLi exploitation.
-- [Metasploit](https://www.metasploit.com/) - 🛠️ Framework.
-- [WPscan](https://wpscan.com/wordpress-security-scanner) - 💻 WordPress exploitation.
-- [Nikto](https://github.com/sullo/nikto) - 🔍 Webserver scanning.
-- [HTTPX](https://github.com/projectdiscovery/httpx) - 🌐 HTTP probing.
-- [Nuclei](https://github.com/projectdiscovery/nuclei) - 📝 YAML-based template scanning.
-- [FFUF](https://github.com/ffuf/ffuf) - 🌐 HTTP probing.
-- [Subfinder](https://github.com/projectdiscovery/subfinder) - 🌐 Subdomain discovery.
-- [Masscan](https://github.com/robertdavidgraham/masscan) - 🔍 Mass IP and port scanner.
-- [Lazy Recon](https://github.com/nahamsec/lazyrecon) - 🌐 Subdomain discovery.
-- [XSS Hunter](https://xsshunter.com/) - 🕵️ Blind XSS discovery.
-- [Aquatone](https://github.com/michenriksen/aquatone) - 🌐 HTTP-based recon.
-- [LinkFinder](https://github.com/GerbenJavado/LinkFinder) - 🔗 Endpoint discovery through JS files.
-- [JS-Scan](https://github.com/0x240x23elu/JSScanner) - 🔗 Endpoint discovery through JS files.
-- [Parameth](https://github.com/maK-/parameth) - 🔍 Bruteforce GET and POST parameters.
-- [truffleHog](https://github.com/trufflesecurity/trufflehog) - 🔑 Encontrar credenciais em commits do GitHub.
-
-## 🪓 Ferramentas para obter informações 
+- 🟢 [Burp Suite](https://portswigger.net/burp) - 🛠️ Framework.
+- 🟢 [ZAP Proxy](https://www.zaproxy.org/) - 🛠️ Framework.
+- 🟡 [Dirsearch](https://github.com/maurosoria/dirsearch) - 🔍 HTTP bruteforcing.
+- 🟢 [Nmap](https://nmap.org/) - 🔍 Port scanning.
+- 🟡 [Sublist3r](https://github.com/aboul3la/Sublist3r) - 🌐 Subdomain discovery.
+- 🟡 [Amass](https://github.com/OWASP/Amass) - 🌐 Subdomain discovery.
+- 🟡 [SQLmap](https://sqlmap.org/) - 💉 SQLi exploitation.
+- 🔴 [Metasploit](https://www.metasploit.com/) - 🛠️ Framework.
+- 🟡 [WPscan](https://wpscan.com/wordpress-security-scanner) - 💻 WordPress exploitation.
+- 🟡 [Nikto](https://github.com/sullo/nikto) - 🔍 Webserver scanning.
+- 🟢 [HTTPX](https://github.com/projectdiscovery/httpx) - 🌐 HTTP probing.
+- 🟡 [Nuclei](https://github.com/projectdiscovery/nuclei) - 📝 YAML-based template scanning.
+- 🟡 [FFUF](https://github.com/ffuf/ffuf) - 🌐 HTTP probing.
+- 🟡 [Subfinder](https://github.com/projectdiscovery/subfinder) - 🌐 Subdomain discovery.
+- 🔴 [Masscan](https://github.com/robertdavidgraham/masscan) - 🔍 Mass IP and port scanner.
+- 🟡 [Lazy Recon](https://github.com/nahamsec/lazyrecon) - 🌐 Subdomain discovery.
+- 🟡 [XSS Hunter](https://xsshunter.com/) - 🕵️ Blind XSS discovery.
+- 🟡 [Aquatone](https://github.com/michenriksen/aquatone) - 🌐 HTTP-based recon.
+- 🟡 [LinkFinder](https://github.com/GerbenJavado/LinkFinder) - 🔗 Endpoint discovery through JS files.
+- 🟡 [JS-Scan](https://github.com/0x240x23elu/JSScanner) - 🔗 Endpoint discovery through JS files.
+- 🟡 [Parameth](https://github.com/maK-/parameth) - 🔍 Bruteforce GET and POST parameters.
+- 🟡 [truffleHog](https://github.com/trufflesecurity/trufflehog) - 🔑 Encontrar credenciais em commits do GitHub.
 
 ## 🛠️ Ferramentas para Coleta de Informações
 
-- [theHarvester](https://github.com/laramies/theHarvester) - 📨 E-mails, subdomínios e nomes Harvester.
-- [CTFR](https://github.com/UnaPibaGeek/ctfr) - 🔒 Abusando de logs de transparência de certificado para obter subdomínios de sites HTTPS.
-- [Sn1per](https://github.com/1N3/Sn1per) - 🔍 Scanner automatizado de reconhecimento de pentest.
-- [RED Hawk](https://github.com/Tuhinshubhra/RED_HAWK) - 🛡️ Tudo em uma ferramenta para coleta de informações, verificação de vulnerabilidades e rastreamento. Uma ferramenta obrigatória para todos os testadores de penetração.
-- [Infoga](https://github.com/m4ll0k/Infoga) - 📧 Coleta de informações de e-mail.
-- [KnockMail](https://github.com/4w4k3/KnockMail) - ✅ Verifique se o endereço de e-mail existe.
-- [a2sv](https://github.com/hahwul/a2sv) - 🔐 Verificação automática para vulnerabilidade SSL.
-- [Wfuzz](https://github.com/xmendez/wfuzz) - 🌀 Fuzzer de aplicativos da web.
-- [Nmap](https://github.com/nmap/nmap) - 🌐 Uma ferramenta muito comum. Host de rede, vuln e detector de porta.
-- [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) - 📞 Uma estrutura OSINT para números de telefone.
-
-## 🔧 Ferramentas para Pentesting
+- 🟢 [theHarvester](https://github.com/laramies/theHarvester) - 📨 E-mails, subdomínios e nomes Harvester.
+- 🟡 [CTFR](https://github.com/UnaPibaGeek/ctfr) - 🔒 Abusando de logs de transparência de certificado para obter subdomínios de sites HTTPS.
+- 🟡 [Sn1per](https://github.com/1N3/Sn1per) - 🔍 Scanner automatizado de reconhecimento de pentest.
+- 🟡 [RED Hawk](https://github.com/Tuhinshubhra/RED_HAWK) - 🛡️ Tudo em uma ferramenta para coleta de informações, verificação de vulnerabilidades e rastreamento. Uma ferramenta obrigatória para todos os testadores de penetração.
+- 🟢 [Infoga](https://github.com/m4ll0k/Infoga) - 📧 Coleta de informações de e-mail.
+- 🟢 [KnockMail](https://github.com/4w4k3/KnockMail) - ✅ Verifique se o endereço de e-mail existe.
+- 🟡 [a2sv](https://github.com/hahwul/a2sv) - 🔐 Verificação automática para vulnerabilidade SSL.
+- 🟡 [Wfuzz](https://github.com/xmendez/wfuzz) - 🌀 Fuzzer de aplicativos da web.
+- 🟢 [Nmap](https://github.com/nmap/nmap) - 🌐 Uma ferramenta muito comum. Host de rede, vuln e detector de porta.
+- 🟢 [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) - 📞 Uma estrutura OSINT para números de telefone.
 
 ## 🛠️ Ferramentas para Pentesting
 
-- [🛡️ Pentest Tools](https://github.com/gwen001/pentest-tools)
-- [🔧 Hacktronian Tools](https://github.com/thehackingsage/hacktronian)
-- [📊 Linux Smart Enumeration](https://github.com/diego-treitos/linux-smart-enumeration)
-- [🐒 Infection Monkey](https://github.com/guardicore/monkey)
-- [❌ Xerror](https://github.com/Chudry/Xerror)
-- [📂 Mongoaudit](https://github.com/stampery/mongoaudit)
-- [📜 Pentesting Scripts](https://github.com/killswitch-GUI/PenTesting-Scripts)
-- [🛠️ TxTool](https://github.com/kuburan/txtool)
-- [🔍 All Pentesting Tools](https://github.com/nullsecuritynet/tools)
-
-## 🔨 Ferramentas para Hardware Hacking
+- 🟢 [🛡️ Pentest Tools](https://github.com/gwen001/pentest-tools)
+- 🟡 [🔧 Hacktronian Tools](https://github.com/thehackingsage/hacktronian)
+- 🟢 [📊 Linux Smart Enumeration](https://github.com/diego-treitos/linux-smart-enumeration)
+- 🟢 [🐒 Infection Monkey](https://github.com/guardicore/monkey)
+- 🟡 [❌ Xerror](https://github.com/Chudry/Xerror)
+- 🟡 [📂 Mongoaudit](https://github.com/stampery/mongoaudit)
+- 🟢 [📜 Pentesting Scripts](https://github.com/killswitch-GUI/PenTesting-Scripts)
+- 🟡 [🛠️ TxTool](https://github.com/kuburan/txtool)
+- 🟢 [🔍 All Pentesting Tools](https://github.com/nullsecuritynet/tools)
 
 ## 🔨 Ferramentas para Hardware Hacking
 
