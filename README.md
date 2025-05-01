@@ -11,41 +11,27 @@
 
 Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profissional na área de segurança da informação ou se especializar caso você já atue na área, confira o repositório para descobrir novas ferramentas para o seu dia-a-dia, tecnologias para incorporar na sua stack com foco em se tornar um profissional atualizado e diferenciado em segurança da informação, alguns sites ou artigos podem estar em um idioma diferente do seu, porém isso não impede que você consiga realizar a leitura do artigo ou site em questão, você pode utilizar a ferramenta de tradução do Google para traduzir: sites, arquivos, textos.
 
-<sub> <strong>Siga nas redes sociais para acompanhar mais conteúdos: </strong> <br>
-[<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/arthurspk)
-[<img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/seixasqlc/)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arthurspk/)
-[<img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/manotoquinho)
-[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NbMQUPjHz7)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/guiadevbrasil/)
-[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g)
-</sub>
-
-## 💌 Doações
-
-> Olá! Se você está lendo isso, é porque provavelmente já conhece o meu repositório no GitHub, que oferece conteúdo gratuito para ajudar desenvolvedores a aprimorarem suas habilidades. E se você está aqui, talvez esteja considerando contribuir com uma doação para apoiar a continuação do projeto.
-
-- [Clique aqui para realizar realizar uma doação! 💓](https://beacons.ai/doacoesguiadev)
-
-> Se você quiser contribuir, existem várias opções disponíveis, incluindo PayPal, PagSeguro, Mercado Pago, Buy Me A Coffe, Pic Pay e Pix. Qualquer doação, por menor que seja, é extremamente bem-vinda e será usada com responsabilidade e transparência. Obrigado por considerar apoiar meu projeto! Juntos, podemos continuar a compartilhar conhecimento e ajudar a criar uma comunidade de desenvolvedores mais forte e colaborativa.
-
-## :closed_book: E-Book
-
-> Este repositório é um projeto gratuito para a comunidade de desenvolvedores. Você pode me ajudar comprando o e-book "e-Front" se estiver interessado em aprender ou melhorar suas habilidades de desenvolvimento front-end. O e-book é completo e cobre tecnologias essenciais como HTML, CSS, JavaScript, React, TypeScript e mais. O valor é simbólico e sua compra me ajuda a produzir e fornecer mais conteúdo gratuito para a comunidade. Adquira agora e comece sua jornada no desenvolvimento front-end.
-
-- eFront - Estudando Desenvolvimento Front-end do Zero. [Clique aqui para comprar](https://hotm.art/cSMObU)
-
 ## ⚠️ Aviso importante
 
 > Antes de tudo você pode me ajudar e colaborar, deu bastante trabalho fazer esse repositório e organizar para fazer seu estudo ou trabalho melhor, portanto você pode me ajudar das seguinte maneiras
 
-- Me siga no [Github](https://github.com/arthurspk)
-- Acesse as redes sociais do [Guia Dev Brasil](https://linktr.ee/guiadevbrasil)
-- Mande feedbacks no [Linkedin](https://www.linkedin.com/in/arthurspk/)
+- 🌟 Me siga no [GitHub](https://github.com/HOkket) para acompanhar meus projetos e contribuições.
+- 💬 Envie seus feedbacks ou conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/huhmateus/). Sua opinião é muito importante!
 
 ## 💡 Nossa proposta
 
 > A proposta deste guia é fornecer conteúdos para seu estudo, para guiá-lo se você estiver confuso sobre qual o próximo aprendizado, não influenciar você a seguir os 'hypes' e 'trendys' do momento. Acreditamos que com um <b>maior conhecimento das diferentes estruturas e soluções disponíveis poderá escolher a ferramenta que melhor se aplica às suas demandas.</b> E lembre-se, 'hypes' e 'trendys' nem sempre são as melhores opções.
+
+<div align="center">
+
+> ##  Legenda para identificar o nível de conhecimento do material:
+</div>
+
+Alguns conteúdos contam com um indicador visual para ajudar a guiar o leitor por níveis de conhecimento.
+
+- 🟢 **Iniciante**: Material introdutório, ideal para quem está começando e não possui experiência prévia.
+- 🟡 **Intermediário**: Conteúdo para quem já possui conhecimentos básicos e deseja aprofundar suas habilidades.
+- 🔴 **Avançado**: Material técnico e detalhado, voltado para profissionais ou estudantes com experiência significativa na área.
 
 ## :beginner: Para quem está começando agora
 
@@ -192,23 +178,23 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 ## 🕵️‍♂️ Sites para estudar Cyber Security
 
-- [Certified Secure](https://www.certifiedsecure.com/frontpage) - Muitos desafios diferentes.
-- [CyberSecLabs](https://www.cyberseclabs.co.uk/) - Laboratórios de treinamento de alta qualidade.
-- [Cybrary](https://www.cybrary.it/) - Vídeos, laboratórios e exames práticos.
-- [EchoCTF](https://echoctf.red/) - Treine suas habilidades ofensivas e defensivas.
-- [Hack The Box](https://www.hackthebox.com/) - Plataforma online de treinamento em cyber security.
-- [HackXpert](https://hackxpert.com/) - Laboratórios e treinamentos gratuitos.
-- [LetsDefend](https://letsdefend.io/) - Plataforma de treinamento da blue team.
-- [OverTheWire](https://overthewire.org/wargames/) - Aprenda conceitos de segurança por meio de desafios.
-- [PentesterLab](https://pentesterlab.com/) - Aprenda testes de penetração de aplicativos da web.
-- [PortSwigger Web Security Academy](https://portswigger.net/web-security) - Amplo material didático.
-- [RangeForce](https://www.rangeforce.com/) - Plataforma interativa e prática.
-- [Root Me](https://www.root-me.org/) - Mais de 400 desafios de cyber security.
-- [TCM Security](https://academy.tcm-sec.com/) - Cursos de nível básico para cyber security.
-- [Try2Hack](https://try2hack.me/) - Jogue um jogo baseado nos ataques reais.
-- [TryHackMe](https://tryhackme.com/) - Exercícios práticos e laboratórios.
-- [Vuln Hub](https://www.vulnhub.com/) - Material para experiência prática.
-- [Vuln Machines](https://www.vulnmachines.com/) - Cenários do mundo real para praticar.
+- 🟢 [Certified Secure](https://www.certifiedsecure.com/frontpage) - Muitos desafios diferentes.
+- 🟡 [CyberSecLabs](https://www.cyberseclabs.co.uk/) - Laboratórios de treinamento de alta qualidade.
+- 🟢 [Cybrary](https://www.cybrary.it/) - Vídeos, laboratórios e exames práticos.
+- 🟡 [EchoCTF](https://echoctf.red/) - Treine suas habilidades ofensivas e defensivas.
+- 🔴 [Hack The Box](https://www.hackthebox.com/) - Plataforma online de treinamento em cyber security.
+- 🟢 [HackXpert](https://hackxpert.com/) - Laboratórios e treinamentos gratuitos.
+- 🟡 [LetsDefend](https://letsdefend.io/) - Plataforma de treinamento da blue team.
+- 🟢 [OverTheWire](https://overthewire.org/wargames/) - Aprenda conceitos de segurança por meio de desafios.
+- 🟡 [PentesterLab](https://pentesterlab.com/) - Aprenda testes de penetração de aplicativos da web.
+- 🟢 [PortSwigger Web Security Academy](https://portswigger.net/web-security) - Amplo material didático.
+- 🟡 [RangeForce](https://www.rangeforce.com/) - Plataforma interativa e prática.
+- 🟡 [Root Me](https://www.root-me.org/) - Mais de 400 desafios de cyber security.
+- 🟢 [TCM Security](https://academy.tcm-sec.com/) - Cursos de nível básico para cyber security.
+- 🟢 [Try2Hack](https://try2hack.me/) - Jogue um jogo baseado nos ataques reais.
+- 🟡 [TryHackMe](https://tryhackme.com/) - Exercícios práticos e laboratórios.
+- 🟡 [Vuln Hub](https://www.vulnhub.com/) - Material para experiência prática.
+- 🟡 [Vuln Machines](https://www.vulnmachines.com/) - Cenários do mundo real para praticar.
 
 ## 📰 Sites de noticias de Cyber Security
 
@@ -335,11 +321,10 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 ## 🔗 Testes de segurança de API
 
-> Cursos, videos, artigos, blogs, podcast sobre testes de segurança de API em Português 
-- [Segurança em APIs REST](https://blog.mandic.com.br/artigos/seguranca-em-apis-rest-parte-1/)
-- [Segurança de APIs - Red Hat](https://www.redhat.com/pt-br/topics/security/api-security)
-- [Segurança de API: 5 melhores práticas para controlar riscos](https://www.bry.com.br/blog/seguranca-de-api/)
-- [O que é Segurança de API](https://minutodaseguranca.blog.br/o-que-e-seguranca-de-api/)
+- 🟢 [Segurança em APIs REST](https://blog.mandic.com.br/artigos/seguranca-em-apis-rest-parte-1/)
+- 🟡 [Segurança de APIs - Red Hat](https://www.redhat.com/pt-br/topics/security/api-security)
+- 🟡 [Segurança de API: 5 melhores práticas para controlar riscos](https://www.bry.com.br/blog/seguranca-de-api/)
+- 🟢 [O que é Segurança de API](https://minutodaseguranca.blog.br/o-que-e-seguranca-de-api/)
 
 > Cursos, videos, artigos, blogs, podcast sobre testes de segurança de API em Inglês
 - [API Security Best Practices MegaGuide](https://expeditedsecurity.com/api-security-best-practices-megaguide/)
@@ -417,45 +402,46 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 ## 🔎 Ferramentas de busca
 
-- [AlienVault](https://otx.alienvault.com/) - Pesquise e descubra sobre ataques de surfaces.
-- [Binary Edge](https://www.binaryedge.io/) - Verifica a Internet em busca de inteligência de ameaças.
-- [CRT sh](https://crt.sh/) - Procure por certificados que foram registrados pelo CT.
-- [Censys](https://censys.io/) - Avaliando a superfície de ataque para dispositivos conectados à Internet.
-- [Dehashed](https://www.dehashed.com/) - Veja as credenciais vazadas.
-- [DNSDumpster](https://dnsdumpster.com/) - Pesquise registros DNS rapidamente.
-- [DorkSearch](https://dorksearch.com/) - Google dorking muito rápido.
-- [ExploitDB](https://www.exploit-db.com/) - Arquivo de vários exploits.
-- [Fofa](http://fofa.so/) - Procure por várias inteligências de ameaças.
-- [FullHunt](https://fullhunt.io/) - Superfícies de ataque de pesquisa e descoberta.
-- [GrayHatWarfare](https://grayhatwarfare.com/) - Pesquise buckets S3 públicos.
-- [GreyNoise](https://www.greynoise.io/) - Procure dispositivos conectados à internet.
-- [Grep App](https://grep.app/) - Coleta dados de inteligência de ameaças cibernéticas.
-- [Hunter](https://hunter.io/) - Pesquise endereços de e-mail pertencentes a um site.
-- [IntelligenceX](https://intelx.io/) - Pesquise Tor, I2P, vazamentos de dados, domínios e e-mails.
-- [LeakIX](https://leakix.net/) - Pesquise informações indexadas publicamente.
-- [Netlas](https://netlas.io/) - Pesquise e monitore ativos conectados à Internet.
-- [ONYPHE](https://www.onyphe.io/) - Amplo feed de inteligência de ameaças.
-- [Packet Storm Security](https://packetstormsecurity.com/) - Navegue pelas vulnerabilidades e explorações mais recentes.
-- [PolySwarm](https://polyswarm.io/) - Verifique arquivos e URLs em busca de ameaças.
-- [PublicWWW](https://publicwww.com/) - Pesquisa de marketing e marketing de afiliados.
-- [Pulsedive](https://pulsedive.com/) - Procure por inteligência de ameaças.
-- [SearchCode](https://searchcode.com/) - Pesquise 75 bilhões de linhas de código de 40 milhões de projetos.
-- [SecurityTrails](https://securitytrails.com/) - Extensos dados de DNS.
-- [Shodan](https://www.shodan.io/) - Procure dispositivos conectados à internet.
-- [URL Scan](https://urlscan.io/) - Pesquise em meio milhão de repositórios git.
-- [Vulners](https://vulners.com/) - Serviço gratuito para digitalizar e analisar sites.
-- [WayBackMachine](https://archive.org/web/) - Visualize o conteúdo de sites excluídos.
-- [Wigle](https://www.wigle.net/) - Banco de dados de redes sem fio, com estatísticas.
-- [ZoomEye](https://www.zoomeye.org/) - Reúna informações sobre alvos.
+- 🟢 [AlienVault](https://otx.alienvault.com/) - Pesquise e descubra sobre ataques de surfaces.
+- 🟡 [Binary Edge](https://www.binaryedge.io/) - Verifica a Internet em busca de inteligência de ameaças.
+- 🟢 [CRT sh](https://crt.sh/) - Procure por certificados que foram registrados pelo CT.
+- 🟡 [Censys](https://censys.io/) - Avaliando a superfície de ataque para dispositivos conectados à Internet.
+- 🟡 [Dehashed](https://www.dehashed.com/) - Veja as credenciais vazadas.
+- 🟢 [DNSDumpster](https://dnsdumpster.com/) - Pesquise registros DNS rapidamente.
+- 🟢 [DorkSearch](https://dorksearch.com/) - Google dorking muito rápido.
+- 🟡 [ExploitDB](https://www.exploit-db.com/) - Arquivo de vários exploits.
+- 🟡 [Fofa](http://fofa.so/) - Procure por várias inteligências de ameaças.
+- 🟡 [FullHunt](https://fullhunt.io/) - Superfícies de ataque de pesquisa e descoberta.
+- 🟡 [GrayHatWarfare](https://grayhatwarfare.com/) - Pesquise buckets S3 públicos.
+- 🟡 [GreyNoise](https://www.greynoise.io/) - Procure dispositivos conectados à internet.
+- 🟢 [Grep App](https://grep.app/) - Coleta dados de inteligência de ameaças cibernéticas.
+- 🟢 [Hunter](https://hunter.io/) - Pesquise endereços de e-mail pertencentes a um site.
+- 🟡 [IntelligenceX](https://intelx.io/) - Pesquise Tor, I2P, vazamentos de dados, domínios e e-mails.
+- 🟡 [LeakIX](https://leakix.net/) - Pesquise informações indexadas publicamente.
+- 🟡 [Netlas](https://netlas.io/) - Pesquise e monitore ativos conectados à Internet.
+- 🟡 [ONYPHE](https://www.onyphe.io/) - Amplo feed de inteligência de ameaças.
+- 🟡 [Packet Storm Security](https://packetstormsecurity.com/) - Navegue pelas vulnerabilidades e explorações mais recentes.
+- 🟡 [PolySwarm](https://polyswarm.io/) - Verifique arquivos e URLs em busca de ameaças.
+- 🟢 [PublicWWW](https://publicwww.com/) - Pesquisa de marketing e marketing de afiliados.
+- 🟡 [Pulsedive](https://pulsedive.com/) - Procure por inteligência de ameaças.
+- 🟢 [SearchCode](https://searchcode.com/) - Pesquise 75 bilhões de linhas de código de 40 milhões de projetos.
+- 🟡 [SecurityTrails](https://securitytrails.com/) - Extensos dados de DNS.
+- 🟡 [Shodan](https://www.shodan.io/) - Procure dispositivos conectados à internet.
+- 🟢 [URL Scan](https://urlscan.io/) - Pesquise em meio milhão de repositórios git.
+- 🟡 [Vulners](https://vulners.com/) - Serviço gratuito para digitalizar e analisar sites.
+- 🟢 [WayBackMachine](https://archive.org/web/) - Visualize o conteúdo de sites excluídos.
+- 🟢 [Wigle](https://www.wigle.net/) - Banco de dados de redes sem fio, com estatísticas.
+- 🟡 [ZoomEye](https://www.zoomeye.org/) - Reúna informações sobre alvos.
+
 
 ## 📱 Ferramentas de Mobile
 
-- [Mobile Security Framework](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
-- [Hacker 101](https://github.com/Hacker0x01/hacker101)
-- [Objection Runtime Mobile Exploration](https://github.com/sensepost/objection)
-- [Wire iOS](https://github.com/wireapp/wire-ios)
-- [Drozer](https://github.com/WithSecureLabs/drozer)
-- [Needle](https://github.com/WithSecureLabs/needle)
+- 🟢 [Mobile Security Framework](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Ferramenta para análise de segurança de aplicativos móveis.
+- 🟡 [Hacker 101](https://github.com/Hacker0x01/hacker101) - Recursos educacionais para hacking e segurança.
+- 🟢 [Objection Runtime Mobile Exploration](https://github.com/sensepost/objection) - Ferramenta para exploração de aplicativos móveis em tempo de execução.
+- 🟡 [Wire iOS](https://github.com/wireapp/wire-ios) - Aplicativo de mensagens seguras para iOS.
+- 🟢 [Drozer](https://github.com/WithSecureLabs/drozer) - Ferramenta para avaliação de segurança de aplicativos Android.
+- 🟡 [Needle](https://github.com/WithSecureLabs/needle) - Ferramenta para testes de segurança em dispositivos iOS.
 
 ## 🎤 Podcasts de Cyber Security
 
@@ -516,31 +502,31 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [SANS Internet Stormcenter Daily Cyber Podcast](https://podcasts.apple.com/us/podcast/sans-internet-stormcenter-daily-cyber-security-podcast/id304863991)
 
 ## 📽️ Palestras
+- [🎯 **Atribuições de Ataques na Visão de Cyber Threat Intelligence** - *Robson Silva*](https://www.youtube.com/watch?v=JallvQuZXZA&ab_channel=MeninadeCybersec)  
+- [🐍 **Black Hat Python - Hacking, Programação e Red Team** - *Joas Antonio*](https://youtu.be/EOulWqLHmjo)  
+- [🎓 **Certificações em Cibersegurança** - *Fábio Augusto*](https://youtu.be/b7Pwl3RGo9E)  
+- [🛡️ **Como se manter hacker num mundo de segurança** - *Thauan Santos*](https://youtu.be/uo3STUx5mMk)  
+- [💻 **Como se tornar um Hacker em um mundo de script kiddies** - *Rafael Sousa*](https://youtu.be/veFyCTv5i3g)  
+- [🔐 **Defesa Cibernética** - *Milena Barboza*](https://youtu.be/Sc1VQkN3xiw)  
+- [⚙️ **DevSecOps Desenvolvimento Seguro** - *Michelle Mesquita*](https://youtu.be/_ngBWBkq6wA)  
+- [🕵️ **Engenharia Social e Human Hacking** - *Marina Ciavatta*](https://youtu.be/7mj2i2E5QMI)  
+- [🔌 **Hardware Hacking e Bad USB** - *Leonardo La Rosa*](https://www.youtube.com/watch?v=s25Fw69u9tM&ab_channel=MeninadeCybersec)  
+- [📡 **Hardware Hacking, Vulnerabilidades em RFID e NFC** - *Davi Mikael*](https://youtu.be/zTv7JZpO-IA)  
+- [🛠️ **Linguagem de Baixo Nível, Assembly e binários** - *Carolina Trigo*](https://youtu.be/CL51I8xzzf8)  
+- [📱 **Mobile Security** - *Oryon Farias*](https://youtu.be/oMmzSbaj3Gk)  
+- [🐍 **Python 101** - *André Castro*](https://youtu.be/AGxleHdhY8Q)  
+- [🔴 **Segurança Ofensiva, Red Team e GRC** - *João Góes*](https://youtu.be/q_moH0u9cFE)  
 
-- [Atribuições de Ataques na Visão de Cyber Threat Intelligence - Robson Silva](https://www.youtube.com/watch?v=JallvQuZXZA&ab_channel=MeninadeCybersec)
-- [Black Hat Python - Hacking, Programação e Red Team - Joas Antonio](https://youtu.be/EOulWqLHmjo)
-- [Certificações em Cibersegurança - Fábio Augusto](https://youtu.be/b7Pwl3RGo9E)
-- [Como se manter hacker num mundo de segurança - Thauan Santos](https://youtu.be/uo3STUx5mMk)
-- [Como se tornar um Hacker em um mundo de script kiddies - Rafael Sousa](https://youtu.be/veFyCTv5i3g)
-- [Defesa Cibernética - Milena Barboza](https://youtu.be/Sc1VQkN3xiw)
-- [DevSecOps Desenvolvimento Seguro - Michelle Mesquita](https://youtu.be/_ngBWBkq6wA)
-- [Engenharia Social e Humand Hacking - Marina Ciavatta](https://youtu.be/7mj2i2E5QMI)
-- [Hardware Hacking e Bad USB - Leonardo La Rosa](https://www.youtube.com/watch?v=s25Fw69u9tM&ab_channel=MeninadeCybersec)
-- [Hardware Hacking, Vulnerabilidades em RFID e NFC - Davi Mikael](https://youtu.be/zTv7JZpO-IA)
-- [Linguagem de Baixo Nível, Assembly e binários - Carolina Trigo](https://youtu.be/CL51I8xzzf8)
-- [Mobile Security - Oryon Farias](https://youtu.be/oMmzSbaj3Gk)
-- [Python 101 - André Castro](https://youtu.be/AGxleHdhY8Q)
-- [Segurança Ofensiva, Red Team e GRC - João Góes](https://youtu.be/q_moH0u9cFE)
 
 ## 🃏 CheatSheets
 
-- [Kali Linux Cheatsheets](https://www.comparitech.com/net-admin/kali-linux-cheat-sheet/)
-- [Python Cheatsheets](https://www.pythoncheatsheet.org/)
-- [Linux Command Line Cheatsheets](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)
-- [Nmap Cheatsheets](https://www.stationx.net/nmap-cheat-sheet/)
-- [Red Team Cheatsheets](https://0xsp.com/offensive/red-team-cheatsheet/)
-- [Blue Team Cheatsheets](https://guidance.ctag.org.uk/blue-team-cheatsheet)
-- [Pentesting Cheatsheets](https://www.ired.team/offensive-security-experiments/offensive-security-cheetsheets)
+- [📜 Kali Linux Cheatsheets (INICIANTE)](https://www.comparitech.com/net-admin/kali-linux-cheat-sheet/)
+- [🐍 Python Cheatsheets (INICIANTE)](https://www.pythoncheatsheet.org/)
+- [💻 Linux Command Line Cheatsheets (INICIANTE)](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)
+- [🔍 Nmap Cheatsheets (INTERMEDIÁRIO)](https://www.stationx.net/nmap-cheat-sheet/)
+- [🔴 Red Team Cheatsheets (AVANÇADO)](https://0xsp.com/offensive/red-team-cheatsheet/)
+- [🔵 Blue Team Cheatsheets (INTERMEDIÁRIO)](https://guidance.ctag.org.uk/blue-team-cheatsheet)
+- [🛠️ Pentesting Cheatsheets (AVANÇADO)](https://www.ired.team/offensive-security-experiments/offensive-security-cheetsheets)
 
 ## ♟️ Exploitation
 
@@ -628,29 +614,29 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 ## 🐧 Distros de Linux
 
-- [Parrot Security](https://www.parrotsec.org/)  - Distribuição Parrot SecurityOS 
-- [Kali Linux](https://www.kali.org) - Distribuição Linux Kali Linux
-- [Black Arch Linux](https://blackarch.org/) - Distribuição Black Arch
-- [Arch Linux](https://archlinux.org/) - Distribuição Linux Arch Linux
-- [Pop!\_Os](https://pop.system76.com/) - Distribuição Linux Pop!\_Os
-- [Debian](https://www.debian.org/) - Distribuição Linux Debian
-- [Ubuntu](https://ubuntu.com/) - Distribuição Linux Ubuntu
-- [Fedora](https://getfedora.org/pt_BR/) - Distribuição Linux Fedora
-- [Linux Mint](https://linuxmint.com/) - Distribuição Linux Mint
-- [OpenSUSE](https://www.opensuse.org) - Distribuição Linux OpenSUS
-- [KDE Neon](https://www.neon.kde.org) - Distribuição Linux KDE Neon
-- [Solus](https://www.getsol.us) - Distribuição Linux Solus
-- [Tails](https://www.tails.boum.org) - Distribuição Linux Tails
-- [Zorin OS](https://zorin.com/os/) - Distribuição Linux Zorin
-- [Kubuntu](https://kubuntu.org/) - Distribuição Linux Kubuntu
+- 🟢 [Parrot Security](https://www.parrotsec.org/)  - Distribuição Parrot SecurityOS 
+- 🟢 [Kali Linux](https://www.kali.org) - Distribuição Linux Kali Linux
+- 🟡 [Black Arch Linux](https://blackarch.org/) - Distribuição Black Arch
+- 🟡 [Arch Linux](https://archlinux.org/) - Distribuição Linux Arch Linux
+- 🟢 [Pop!\_Os](https://pop.system76.com/) - Distribuição Linux Pop!\_Os
+- 🟢 [Debian](https://www.debian.org/) - Distribuição Linux Debian
+- 🟢 [Ubuntu](https://ubuntu.com/) - Distribuição Linux Ubuntu
+- 🟡 [Fedora](https://getfedora.org/pt_BR/) - Distribuição Linux Fedora
+- 🟢 [Linux Mint](https://linuxmint.com/) - Distribuição Linux Mint
+- 🟡 [OpenSUSE](https://www.opensuse.org) - Distribuição Linux OpenSUSE
+- 🟢 [KDE Neon](https://www.neon.kde.org) - Distribuição Linux KDE Neon
+- 🟡 [Solus](https://www.getsol.us) - Distribuição Linux Solus
+- 🟡 [Tails](https://www.tails.boum.org) - Distribuição Linux Tails
+- 🟢 [Zorin OS](https://zorin.com/os/) - Distribuição Linux Zorin
+- 🟢 [Kubuntu](https://kubuntu.org/) - Distribuição Linux Kubuntu
 
 ## 💻 Máquinas Virtuais
 
-- [Oracle VM VirtualBox](https://www.virtualbox.org/)
-- [VMware Workstation](https://www.vmware.com/br/products/workstation-player/workstation-player-evaluation.html)
-- [VMware Workstation Player](https://www.vmware.com/products/workstation-player.html)
-- [VMware Fusion](https://www.vmware.com/br/products/fusion.html)
-- [Vagrant](https://www.vagrantup.com/)
+- 🟢 [Oracle VM VirtualBox](https://www.virtualbox.org/) - Software de virtualização gratuito e de código aberto.
+- 🟡 [VMware Workstation](https://www.vmware.com/br/products/workstation-player/workstation-player-evaluation.html) - Ferramenta de virtualização avançada para profissionais.
+- 🟢 [VMware Workstation Player](https://www.vmware.com/products/workstation-player.html) - Versão gratuita para uso pessoal e não comercial.
+- 🟡 [VMware Fusion](https://www.vmware.com/br/products/fusion.html) - Virtualização para macOS.
+- 🟢 [Vagrant](https://www.vagrantup.com/) - Ferramenta para construção e gerenciamento de ambientes virtuais.
 
 ## 💰 Sites de Bug Bounty
 
@@ -748,20 +734,20 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 ## 📚 Recomendações de livros
 
 > Recomendação de livros para aprimoramento do conhecimento em Cyber Security em Português 
-- [Introdução ao Pentest](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-ao-Pentest-Daniel-Moreno/dp/8575228072/ref=asc_df_8575228072/?tag=googleshopp00-20&linkCode=df0&hvadid=379773616949&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-850530960141&psc=1)
-- [Pentest em Aplicações web](https://www.amazon.com.br/Pentest-Aplica%C3%A7%C3%B5es-Web-Daniel-Moreno/dp/8575226134/ref=pd_bxgy_img_sccl_1/145-1578869-2329559?pd_rd_w=2dTdj&content-id=amzn1.sym.57f5b0c5-8f2e-45a4-8595-2eb0fcbe85cd&pf_rd_p=57f5b0c5-8f2e-45a4-8595-2eb0fcbe85cd&pf_rd_r=DSSS27BQRN1MT8XSNT55&pd_rd_wg=smd9N&pd_rd_r=cc5197e3-0659-4e91-98fd-07a7b7b3c6aa&pd_rd_i=8575226134&psc=1)
-- [Pentest em Redes sem fio](https://www.amazon.com.br/Pentest-em-Redes-sem-Fio/dp/8575224832/ref=pd_bxgy_img_sccl_2/145-1578869-2329559?pd_rd_w=2dTdj&content-id=amzn1.sym.57f5b0c5-8f2e-45a4-8595-2eb0fcbe85cd&pf_rd_p=57f5b0c5-8f2e-45a4-8595-2eb0fcbe85cd&pf_rd_r=DSSS27BQRN1MT8XSNT55&pd_rd_wg=smd9N&pd_rd_r=cc5197e3-0659-4e91-98fd-07a7b7b3c6aa&pd_rd_i=8575224832&psc=1)
-- [Exploração de vulnerabilidades em redes TCP/IP](https://www.amazon.com.br/Explora%C3%A7%C3%A3o-vulnerabilidade-Rede-TCP-IP/dp/8550800708/ref=asc_df_8550800708/?tag=googleshopp00-20&linkCode=df0&hvadid=379765802390&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-423299859071&psc=1)
-- [Algoritmos de Destruição em Massa](https://www.amazon.com.br/Algoritmos-Destrui%C3%A7%C3%A3o-Massa-Cathy-ONeil/dp/6586460026/ref=asc_df_6586460026/?tag=googleshopp00-20&linkCode=df0&hvadid=379792431986&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-1007895878384&psc=1)
-- [Kali Linux. Introdução ao Penetration Testing](https://www.amazon.com.br/Kali-Linux-Introdu%C3%A7%C3%A3o-Penetration-Testing/dp/8539906236/ref=asc_df_8539906236/?tag=googleshopp00-20&linkCode=df0&hvadid=379787347388&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-421604521830&psc=1)
-- [Criptografia e Segurança de Redes: Princípios e Práticas](https://www.amazon.com.br/Criptografia-seguran%C3%A7a-redes-princ%C3%ADpios-pr%C3%A1ticas/dp/8543005892/ref=asc_df_8543005892/?tag=googleshopp00-20&linkCode=df0&hvadid=379792581512&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-810094894442&psc=1)
-- [Análise de Tráfego em Redes TCP/IP: Utilize Tcpdump na Análise de Tráfegos em Qualquer Sistema Operacional](https://www.amazon.com.br/An%C3%A1lise-Tr%C3%A1fego-Redes-TCP-IP/dp/8575223755/ref=asc_df_8575223755/?tag=googleshopp00-20&linkCode=df0&hvadid=379818494621&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-396355445891&psc=1)
-- [Segurança de computadores e teste de invasão](https://www.amazon.com.br/Seguran%C3%A7a-computadores-teste-invas%C3%A3o-Alfred/dp/8522117993/ref=asc_df_8522117993/?tag=googleshopp00-20&linkCode=df0&hvadid=379765802390&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-394932359707&psc=1)
-- [Ransomware: Defendendo-se da Extorsão Digital](https://www.amazon.com.br/Ransomware-Defendendo-Se-Extors%C3%A3o-Allan-Liska/dp/8575225510/ref=asc_df_8575225510/?tag=googleshopp00-20&linkCode=df0&hvadid=379818494621&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-812784633318&psc=1)
-- [Fundamentos de Segurança da Informação: com Base na ISO 27001 e na ISO 27002](https://www.amazon.com.br/Fundamentos-Seguran%C3%A7a-Informa%C3%A7%C3%A3o-27001-27002/dp/8574528609/ref=asc_df_8574528609/?tag=googleshopp00-20&linkCode=df0&hvadid=379787347388&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-809202559856&psc=1)
-- [Testes de Invasão: uma Introdução Prática ao Hacking](https://www.amazon.com.br/Testes-Invas%C3%A3o-Georgia-Weidman/dp/8575224077/ref=asc_df_8575224077/?tag=googleshopp00-20&linkCode=df0&hvadid=379739109739&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-332577553663&psc=1)
-- [CISEF - Segurança Cibernética: Uma Questão de Sobrevivência](https://www.amazon.com.br/CISEF-Seguran%C3%A7a-Cibern%C3%A9tica-Quest%C3%A3o-Sobreviv%C3%AAncia/dp/B097TPYCGG/ref=asc_df_B097TPYCGG/?tag=googleshopp00-20&linkCode=df0&hvadid=379715964603&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-1430488033379&psc=1)
-- [Black Hat Python: Programação Python Para Hackers e Pentesters](https://www.amazon.com.br/Black-Hat-Python-Justin-Seitz/dp/8575224204)
+- [📘 Introdução ao Pentest](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-ao-Pentest-Daniel-Moreno/dp/8575228072/ref=asc_df_8575228072/?tag=googleshopp00-20&linkCode=df0&hvadid=379773616949&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-850530960141&psc=1)
+- [🌐 Pentest em Aplicações Web](https://www.amazon.com.br/Pentest-Aplica%C3%A7%C3%B5es-Web-Daniel-Moreno/dp/8575226134/ref=pd_bxgy_img_sccl_1/145-1578869-2329559?pd_rd_w=2dTdj&content-id=amzn1.sym.57f5b0c5-8f2e-45a4-8595-2eb0fcbe85cd&pf_rd_p=57f5b0c5-8f2e-45a4-8595-2eb0fcbe85cd&pf_rd_r=DSSS27BQRN1MT8XSNT55&pd_rd_wg=smd9N&pd_rd_r=cc5197e3-0659-4e91-98fd-07a7b7b3c6aa&pd_rd_i=8575226134&psc=1)
+- [📡 Pentest em Redes sem Fio](https://www.amazon.com.br/Pentest-em-Redes-sem-Fio/dp/8575224832/ref=pd_bxgy_img_sccl_2/145-1578869-2329559?pd_rd_w=2dTdj&content-id=amzn1.sym.57f5b0c5-8f2e-45a4-8595-2eb0fcbe85cd&pf_rd_p=57f5b0c5-8f2e-45a4-8595-2eb0fcbe85cd&pf_rd_r=DSSS27BQRN1MT8XSNT55&pd_rd_wg=smd9N&pd_rd_r=cc5197e3-0659-4e91-98fd-07a7b7b3c6aa&pd_rd_i=8575224832&psc=1)
+- [🔍 Exploração de Vulnerabilidades em Redes TCP/IP](https://www.amazon.com.br/Explora%C3%A7%C3%A3o-vulnerabilidade-Rede-TCP-IP/dp/8550800708/ref=asc_df_8550800708/?tag=googleshopp00-20&linkCode=df0&hvadid=379765802390&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-423299859071&psc=1)
+- [📊 Algoritmos de Destruição em Massa](https://www.amazon.com.br/Algoritmos-Destrui%C3%A7%C3%A3o-Massa-Cathy-ONeil/dp/6586460026/ref=asc_df_6586460026/?tag=googleshopp00-20&linkCode=df0&hvadid=379792431986&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-1007895878384&psc=1)
+- [🐧 Kali Linux: Introdução ao Penetration Testing](https://www.amazon.com.br/Kali-Linux-Introdu%C3%A7%C3%A3o-Penetration-Testing/dp/8539906236/ref=asc_df_8539906236/?tag=googleshopp00-20&linkCode=df0&hvadid=379787347388&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-421604521830&psc=1)
+- [🔐 Criptografia e Segurança de Redes: Princípios e Práticas](https://www.amazon.com.br/Criptografia-seguran%C3%A7a-redes-princ%C3%ADpios-pr%C3%A1ticas/dp/8543005892/ref=asc_df_8543005892/?tag=googleshopp00-20&linkCode=df0&hvadid=379792581512&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-810094894442&psc=1)
+- [📈 Análise de Tráfego em Redes TCP/IP](https://www.amazon.com.br/An%C3%A1lise-Tr%C3%A1fego-Redes-TCP-IP/dp/8575223755/ref=asc_df_8575223755/?tag=googleshopp00-20&linkCode=df0&hvadid=379818494621&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-396355445891&psc=1)
+- [🛡️ Segurança de Computadores e Teste de Invasão](https://www.amazon.com.br/Seguran%C3%A7a-computadores-teste-invas%C3%A3o-Alfred/dp/8522117993/ref=asc_df_8522117993/?tag=googleshopp00-20&linkCode=df0&hvadid=379765802390&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-394932359707&psc=1)
+- [💻 Ransomware: Defendendo-se da Extorsão Digital](https://www.amazon.com.br/Ransomware-Defendendo-Se-Extors%C3%A3o-Allan-Liska/dp/8575225510/ref=asc_df_8575225510/?tag=googleshopp00-20&linkCode=df0&hvadid=379818494621&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-812784633318&psc=1)
+- [📖 Fundamentos de Segurança da Informação](https://www.amazon.com.br/Fundamentos-Seguran%C3%A7a-Informa%C3%A7%C3%A3o-27001-27002/dp/8574528609/ref=asc_df_8574528609/?tag=googleshopp00-20&linkCode=df0&hvadid=379787347388&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-809202559856&psc=1)
+- [🔍 Testes de Invasão: Uma Introdução Prática ao Hacking](https://www.amazon.com.br/Testes-Invas%C3%A3o-Georgia-Weidman/dp/8575224077/ref=asc_df_8575224077/?tag=googleshopp00-20&linkCode=df0&hvadid=379739109739&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-332577553663&psc=1)
+- [🌐 CISEF - Segurança Cibernética: Uma Questão de Sobrevivência](https://www.amazon.com.br/CISEF-Seguran%C3%A7a-Cibern%C3%A9tica-Quest%C3%A3o-Sobreviv%C3%AAncia/dp/B097TPYCGG/ref=asc_df_B097TPYCGG/?tag=googleshopp00-20&linkCode=df0&hvadid=379715964603&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-1430488033379&psc=1)
+- [🐍 Black Hat Python: Programação Python Para Hackers e Pentesters](https://www.amazon.com.br/Black-Hat-Python-Justin-Seitz/dp/8575224204)
 
 > Recomendação de livros para aprimoramento do conhecimento em Cyber Security em Inglês
 - [Hacking: The Art of Exploitation](https://www.amazon.com.br/Hacking-Exploitation-CDROM-Jon-Erickson/dp/1593271441)
@@ -795,106 +781,114 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 ## 🛠️ Frameworks e ferramentas de Hacking Web
 
-- [Burp Suite](https://portswigger.net/burp) - Framework.
-- [ZAP Proxy](https://www.zaproxy.org/) - Framework.
-- [Dirsearch](https://github.com/maurosoria/dirsearch) - HTTP bruteforcing.
-- [Nmap](https://nmap.org/) - Port scanning.
-- [Sublist3r](https://github.com/aboul3la/Sublist3r) - Subdomain discovery.
-- [Amass](https://github.com/OWASP/Amass) - Subdomain discovery.
-- [SQLmap](https://sqlmap.org/) - SQLi exploitation.
-- [Metasploit](https://www.metasploit.com/) - Framework
-- [WPscan](https://wpscan.com/wordpress-security-scanner) - WordPress exploitation.
-- [Nikto](https://github.com/sullo/nikto) - Webserver scanning.
-- [HTTPX](https://github.com/projectdiscovery/httpx) - HTTP probing.
-- [Nuclei](https://github.com/projectdiscovery/nuclei) - YAML based template scanning.
-- [FFUF](https://github.com/ffuf/ffuf) - HTTP probing.
-- [Subfinder](https://github.com/projectdiscovery/subfinder) - Subdomain discovery.
-- [Masscan](https://github.com/robertdavidgraham/masscan) - Mass IP and port scanner.
-- [Lazy Recon](https://github.com/nahamsec/lazyrecon) - Subdomain discovery.
-- [XSS Hunter](https://xsshunter.com/) - Blind XSS discovery.
-- [Aquatone](https://github.com/michenriksen/aquatone) - HTTP based recon.
-- [LinkFinder](https://github.com/GerbenJavado/LinkFinder) - Endpoint discovery through JS files.
-- [JS-Scan](https://github.com/0x240x23elu/JSScanner) - Endpoint discovery through JS files.
-- [Parameth](https://github.com/maK-/parameth) - Bruteforce GET and POST parameters.
-- [truffleHog](https://github.com/trufflesecurity/trufflehog) - Encontrar credenciais em commits do GitHub.
+## 🛠️ Frameworks e Ferramentas de Hacking Web
+
+- [Burp Suite](https://portswigger.net/burp) - 🛠️ Framework.
+- [ZAP Proxy](https://www.zaproxy.org/) - 🛠️ Framework.
+- [Dirsearch](https://github.com/maurosoria/dirsearch) - 🔍 HTTP bruteforcing.
+- [Nmap](https://nmap.org/) - 🔍 Port scanning.
+- [Sublist3r](https://github.com/aboul3la/Sublist3r) - 🌐 Subdomain discovery.
+- [Amass](https://github.com/OWASP/Amass) - 🌐 Subdomain discovery.
+- [SQLmap](https://sqlmap.org/) - 💉 SQLi exploitation.
+- [Metasploit](https://www.metasploit.com/) - 🛠️ Framework.
+- [WPscan](https://wpscan.com/wordpress-security-scanner) - 💻 WordPress exploitation.
+- [Nikto](https://github.com/sullo/nikto) - 🔍 Webserver scanning.
+- [HTTPX](https://github.com/projectdiscovery/httpx) - 🌐 HTTP probing.
+- [Nuclei](https://github.com/projectdiscovery/nuclei) - 📝 YAML-based template scanning.
+- [FFUF](https://github.com/ffuf/ffuf) - 🌐 HTTP probing.
+- [Subfinder](https://github.com/projectdiscovery/subfinder) - 🌐 Subdomain discovery.
+- [Masscan](https://github.com/robertdavidgraham/masscan) - 🔍 Mass IP and port scanner.
+- [Lazy Recon](https://github.com/nahamsec/lazyrecon) - 🌐 Subdomain discovery.
+- [XSS Hunter](https://xsshunter.com/) - 🕵️ Blind XSS discovery.
+- [Aquatone](https://github.com/michenriksen/aquatone) - 🌐 HTTP-based recon.
+- [LinkFinder](https://github.com/GerbenJavado/LinkFinder) - 🔗 Endpoint discovery through JS files.
+- [JS-Scan](https://github.com/0x240x23elu/JSScanner) - 🔗 Endpoint discovery through JS files.
+- [Parameth](https://github.com/maK-/parameth) - 🔍 Bruteforce GET and POST parameters.
+- [truffleHog](https://github.com/trufflesecurity/trufflehog) - 🔑 Encontrar credenciais em commits do GitHub.
 
 ## 🪓 Ferramentas para obter informações 
 
-- [theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomínios e nomes Harvester.
-- [CTFR](https://github.com/UnaPibaGeek/ctfr) - Abusando de logs de transparência de certificado para obter subdomínios de sites HTTPS.
-- [Sn1per](https://github.com/1N3/Sn1per) - Scanner automatizado de reconhecimento de pentest.
-- [RED Hawk](https://github.com/Tuhinshubhra/RED_HAWK) - Tudo em uma ferramenta para coleta de informações, verificação de vulnerabilidades e rastreamento. Uma ferramenta obrigatória para todos os testadores de penetração.
-- [Infoga](https://github.com/m4ll0k/Infoga) - Coleta de informações de e-mail.
-- [KnockMail](https://github.com/4w4k3/KnockMail) - Verifique se o endereço de e-mail existe.
-- [a2sv](https://github.com/hahwul/a2sv) - Verificação automática para vulnerabilidade SSL.
-- [Wfuzz](https://github.com/xmendez/wfuzz) - Fuzzer de aplicativos da web.
-- [Nmap](https://github.com/nmap/nmap) - Uma ferramenta muito comum. Host de rede, vuln e detector de porta.
-- [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) - 	Uma estrutura OSINT para números de telefone.
+## 🛠️ Ferramentas para Coleta de Informações
+
+- [theHarvester](https://github.com/laramies/theHarvester) - 📨 E-mails, subdomínios e nomes Harvester.
+- [CTFR](https://github.com/UnaPibaGeek/ctfr) - 🔒 Abusando de logs de transparência de certificado para obter subdomínios de sites HTTPS.
+- [Sn1per](https://github.com/1N3/Sn1per) - 🔍 Scanner automatizado de reconhecimento de pentest.
+- [RED Hawk](https://github.com/Tuhinshubhra/RED_HAWK) - 🛡️ Tudo em uma ferramenta para coleta de informações, verificação de vulnerabilidades e rastreamento. Uma ferramenta obrigatória para todos os testadores de penetração.
+- [Infoga](https://github.com/m4ll0k/Infoga) - 📧 Coleta de informações de e-mail.
+- [KnockMail](https://github.com/4w4k3/KnockMail) - ✅ Verifique se o endereço de e-mail existe.
+- [a2sv](https://github.com/hahwul/a2sv) - 🔐 Verificação automática para vulnerabilidade SSL.
+- [Wfuzz](https://github.com/xmendez/wfuzz) - 🌀 Fuzzer de aplicativos da web.
+- [Nmap](https://github.com/nmap/nmap) - 🌐 Uma ferramenta muito comum. Host de rede, vuln e detector de porta.
+- [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) - 📞 Uma estrutura OSINT para números de telefone.
 
 ## 🔧 Ferramentas para Pentesting
 
-- [Pentest Tools](https://github.com/gwen001/pentest-tools)
-- [Hacktronian Tools](https://github.com/thehackingsage/hacktronian)
-- [Linux Smart Enumeration](https://github.com/diego-treitos/linux-smart-enumeration)
-- [Infection Monkey](https://github.com/guardicore/monkey)
-- [Xerror](https://github.com/Chudry/Xerror)
-- [Mongoaudit](https://github.com/stampery/mongoaudit)
-- [Pentesting Scripts](https://github.com/killswitch-GUI/PenTesting-Scripts)
-- [TxTool](https://github.com/kuburan/txtool)
-- [All Pentesting Tools](https://github.com/nullsecuritynet/tools)
+## 🛠️ Ferramentas para Pentesting
+
+- [🛡️ Pentest Tools](https://github.com/gwen001/pentest-tools)
+- [🔧 Hacktronian Tools](https://github.com/thehackingsage/hacktronian)
+- [📊 Linux Smart Enumeration](https://github.com/diego-treitos/linux-smart-enumeration)
+- [🐒 Infection Monkey](https://github.com/guardicore/monkey)
+- [❌ Xerror](https://github.com/Chudry/Xerror)
+- [📂 Mongoaudit](https://github.com/stampery/mongoaudit)
+- [📜 Pentesting Scripts](https://github.com/killswitch-GUI/PenTesting-Scripts)
+- [🛠️ TxTool](https://github.com/kuburan/txtool)
+- [🔍 All Pentesting Tools](https://github.com/nullsecuritynet/tools)
 
 ## 🔨 Ferramentas para Hardware Hacking
 
-- [Multímetro Digital](http://s.click.aliexpress.com/e/_d8he3mb)
-- [Módulo conversor FT232RL Usb para TTL](http://s.click.aliexpress.com/e/_dSIAjWL)
-- [Ch341A](http://s.click.aliexpress.com/e/_d62fRI3)
-- [Bus Pirate](http://s.click.aliexpress.com/e/_dUPIrJ9)
-- [SOP8 Clip](http://s.click.aliexpress.com/e/_dVZ9XFN)
-- [Arduino Uno R3](http://s.click.aliexpress.com/e/_dW85MoT)
-- [Osciloscópio Instrustar](http://s.click.aliexpress.com/e/_d80YjJl)
-- [Arduino Nano](http://s.click.aliexpress.com/e/_dZj36oL)
-- [Arduino Uno R3](http://s.click.aliexpress.com/e/_dXsrRxz)
-- [Arduino Pro Micro](http://s.click.aliexpress.com/e/_dSSuhuX)
-- [Esp8266](http://s.click.aliexpress.com/e/_dVzK5qj)
-- [Esp32](http://s.click.aliexpress.com/e/_d7orFfH)
-- [Arduino Micro SS](http://s.click.aliexpress.com/e/_d8Vrda3)
-- [Digispark](http://s.click.aliexpress.com/e/_dZfgtbl)
-- [Proxmark3](http://s.click.aliexpress.com/e/_dUTFHmL)
-- [Gravador de RFID](http://s.click.aliexpress.com/e/_dTFhbsX)
-- [Esp8266](http://s.click.aliexpress.com/e/_d8lGkzd)
-- [Analisador Lógico](http://s.click.aliexpress.com/e/_d9e9PDD)
-- [Raspberry Pi 0 W](http://s.click.aliexpress.com/e/_Bf7UqZxN)
-- [Pickit 3]( http://s.click.aliexpress.com/e/_dYwoTqL)
-- [Ft232h](http://s.click.aliexpress.com/e/_dUpL9XN)
-- [Ft232h](http://s.click.aliexpress.com/e/_dVVWLrH)
-- [M5stickC](http://s.click.aliexpress.com/e/_dVbh4T1)
-- [M5 Atom](http://s.click.aliexpress.com/e/_dTaCid5)
-- [Testador de componentes](http://s.click.aliexpress.com/e/_dUBXjzt)
-- [Projeto de testador de componentes](http://s.click.aliexpress.com/e/_d6tbMnv)
-- [Microscópio](http://s.click.aliexpress.com/e/_dZQ8RIj)
-- [Ferro de solda TS100](http://s.click.aliexpress.com/e/_d82rnhh)
-- [RT809h](https://pt.aliexpress.com/item/32747164846.html?spm=a2g0o.productlist.0.0.25cc3923P5cVXZ&algo_pvid=4d740e28-334f-43e9-938d-aee16699cc41&algo_expid=4d740e28-334f-43e9-938d-aee16699cc41-8&btsid=0ab6f82c15912356671523042efcb7&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_)
-- [RTL-SDR](http://s.click.aliexpress.com/e/_dUIw0ll)
-- [Hackrf + Portapack h2](http://s.click.aliexpress.com/e/_dS0V9kf)
+## 🔨 Ferramentas para Hardware Hacking
+
+- [🔧 Multímetro Digital](http://s.click.aliexpress.com/e/_d8he3mb)
+- [🔌 Módulo conversor FT232RL Usb para TTL](http://s.click.aliexpress.com/e/_dSIAjWL)
+- [💾 Ch341A](http://s.click.aliexpress.com/e/_d62fRI3)
+- [🛠️ Bus Pirate](http://s.click.aliexpress.com/e/_dUPIrJ9)
+- [📎 SOP8 Clip](http://s.click.aliexpress.com/e/_dVZ9XFN)
+- [🔋 Arduino Uno R3](http://s.click.aliexpress.com/e/_dW85MoT)
+- [📊 Osciloscópio Instrustar](http://s.click.aliexpress.com/e/_d80YjJl)
+- [🔋 Arduino Nano](http://s.click.aliexpress.com/e/_dZj36oL)
+- [🔋 Arduino Uno R3](http://s.click.aliexpress.com/e/_dXsrRxz)
+- [🔋 Arduino Pro Micro](http://s.click.aliexpress.com/e/_dSSuhuX)
+- [📡 Esp8266](http://s.click.aliexpress.com/e/_dVzK5qj)
+- [📡 Esp32](http://s.click.aliexpress.com/e/_d7orFfH)
+- [🔋 Arduino Micro SS](http://s.click.aliexpress.com/e/_d8Vrda3)
+- [🔋 Digispark](http://s.click.aliexpress.com/e/_dZfgtbl)
+- [🔑 Proxmark3](http://s.click.aliexpress.com/e/_dUTFHmL)
+- [📀 Gravador de RFID](http://s.click.aliexpress.com/e/_dTFhbsX)
+- [📡 Esp8266](http://s.click.aliexpress.com/e/_d8lGkzd)
+- [📈 Analisador Lógico](http://s.click.aliexpress.com/e/_d9e9PDD)
+- [🍓 Raspberry Pi 0 W](http://s.click.aliexpress.com/e/_Bf7UqZxN)
+- [🔧 Pickit 3](http://s.click.aliexpress.com/e/_dYwoTqL)
+- [🔌 Ft232h](http://s.click.aliexpress.com/e/_dUpL9XN)
+- [🔌 Ft232h](http://s.click.aliexpress.com/e/_dVVWLrH)
+- [📦 M5stickC](http://s.click.aliexpress.com/e/_dVbh4T1)
+- [📦 M5 Atom](http://s.click.aliexpress.com/e/_dTaCid5)
+- [🔍 Testador de componentes](http://s.click.aliexpress.com/e/_dUBXjzt)
+- [📐 Projeto de testador de componentes](http://s.click.aliexpress.com/e/_d6tbMnv)
+- [🔬 Microscópio](http://s.click.aliexpress.com/e/_dZQ8RIj)
+- [🔥 Ferro de solda TS100](http://s.click.aliexpress.com/e/_d82rnhh)
+- [💻 RT809h](https://pt.aliexpress.com/item/32747164846.html?spm=a2g0o.productlist.0.0.25cc3923P5cVXZ&algo_pvid=4d740e28-334f-43e9-938d-aee16699cc41&algo_expid=4d740e28-334f-43e9-938d-aee16699cc41-8&btsid=0ab6f82c15912356671523042efcb7&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_)
+- [📡 RTL-SDR](http://s.click.aliexpress.com/e/_dUIw0ll)
+- [📻 Hackrf + Portapack h2](http://s.click.aliexpress.com/e/_dS0V9kf)
 
 
 ## 🦉 Sites e cursos para aprender C
 
 > Cursos para aprender C em Português 
-- [Curso de C - eXcript](https://www.youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4)
-- [Programação Moderna em C - Papo Binário](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE)
-- [Curso de Linguagem C - Pietro Martins](https://www.youtube.com/playlist?list=PLpaKFn4Q4GMOBAeqC1S5_Fna_Y5XaOQS2)
-- [Curso de Programação C Completo - Programe seu futuro](https://www.youtube.com/playlist?list=PLqJK4Oyr5WSjjEQCKkX6oXFORZX7ro3DA)
-- [Linguagem C - De aluno para aluno](https://www.youtube.com/playlist?list=PLa75BYTPDNKZWYypgOFEsX3H2Mg-SzuLW)
-- [Curso de Linguagem C para Iniciantes - John Haste](https://www.youtube.com/playlist?list=PLGgRtySq3SDMLV8ee7p-rA9y032AU3zT8)
-- [Curso de Linguagem C (ANSI)](https://www.youtube.com/playlist?list=PLZ8dBTV2_5HTGGtrPxDB7zx8J5VMuXdob)
-- [Curso - Programação com a Linguagem C para iniciantes](https://www.youtube.com/playlist?list=PLbEOwbQR9lqxHno2S-IiG9-lePyRNOO_E)
-- [Curso de Programação 3 (C Avançado)](https://www.youtube.com/playlist?list=PLxMw67OGLa0kW_TeweK2-9gXRlMLYzC1o)
-- [Curso de C - Diego Moisset](https://www.youtube.com/playlist?list=PLIygiKpYTC_6zHLTjI6cFIRZm1BCT3CuV)
-- [Curso de C e C++](https://www.youtube.com/playlist?list=PL5EmR7zuTn_bONyjFxSO4ZCE-SVVNFGkS)
-- [Curso de Programação em Linguagem C](https://www.youtube.com/playlist?list=PLucm8g_ezqNqzH7SM0XNjsp25AP0MN82R)
-- [Linguagem C - Curso de Programação Completo para Iniciantes e Profissionais](https://www.youtube.com/playlist?list=PLrqNiweLEMonijPwsHckWX7fVbgT2jS3P)
-- [Curso de Lógica e programação em C](https://www.youtube.com/playlist?list=PLtnFngjANe7EMzARU48QgecpyQdzWapoT)
+- [📘 Curso de C - eXcript](https://www.youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4)
+- [🌐 Programação Moderna em C - Papo Binário](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE)
+- [📚 Curso de Linguagem C - Pietro Martins](https://www.youtube.com/playlist?list=PLpaKFn4Q4GMOBAeqC1S5_Fna_Y5XaOQS2)
+- [🎓 Curso de Programação C Completo - Programe seu futuro](https://www.youtube.com/playlist?list=PLqJK4Oyr5WSjjEQCKkX6oXFORZX7ro3DA)
+- [👨‍🎓 Linguagem C - De aluno para aluno](https://www.youtube.com/playlist?list=PLa75BYTPDNKZWYypgOFEsX3H2Mg-SzuLW)
+- [🖥️ Curso de Linguagem C para Iniciantes - John Haste](https://www.youtube.com/playlist?list=PLGgRtySq3SDMLV8ee7p-rA9y032AU3zT8)
+- [📖 Curso de Linguagem C (ANSI)](https://www.youtube.com/playlist?list=PLZ8dBTV2_5HTGGtrPxDB7zx8J5VMuXdob)
+- [🔧 Curso - Programação com a Linguagem C para iniciantes](https://www.youtube.com/playlist?list=PLbEOwbQR9lqxHno2S-IiG9-lePyRNOO_E)
+- [⚙️ Curso de Programação 3 (C Avançado)](https://www.youtube.com/playlist?list=PLxMw67OGLa0kW_TeweK2-9gXRlMLYzC1o)
+- [📘 Curso de C - Diego Moisset](https://www.youtube.com/playlist?list=PLIygiKpYTC_6zHLTjI6cFIRZm1BCT3CuV)
+- [🖥️ Curso de C e C++](https://www.youtube.com/playlist?list=PL5EmR7zuTn_bONyjFxSO4ZCE-SVVNFGkS)
+- [📚 Curso de Programação em Linguagem C](https://www.youtube.com/playlist?list=PLucm8g_ezqNqzH7SM0XNjsp25AP0MN82R)
+- [🎓 Linguagem C - Curso de Programação Completo para Iniciantes e Profissionais](https://www.youtube.com/playlist?list=PLrqNiweLEMonijPwsHckWX7fVbgT2jS3P)
+- [🔍 Curso de Lógica e programação em C](https://www.youtube.com/playlist?list=PLtnFngjANe7EMzARU48QgecpyQdzWapoT)
 
 > Cursos para aprender C em Inglês
 - [C Programming for Beginners](https://www.youtube.com/playlist?list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e)
