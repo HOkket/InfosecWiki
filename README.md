@@ -5,6 +5,8 @@
   <h1 align="center">Guia de Cyber Security</h1>
 </p>
 
+> **Nota:** Este repositório é um fork no qual adicionarei materiais de estudo e conhecimentos adquiridos durante minha jornada em cibersegurança. Para acessar o projeto original, clique [**AQUI**](https://github.com/arthurspk/guiadecybersecurity).
+
 ## :dart: O guia para alavancar a sua carreira
 
 Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profissional na área de segurança da informação ou se especializar caso você já atue na área, confira o repositório para descobrir novas ferramentas para o seu dia-a-dia, tecnologias para incorporar na sua stack com foco em se tornar um profissional atualizado e diferenciado em segurança da informação, alguns sites ou artigos podem estar em um idioma diferente do seu, porém isso não impede que você consiga realizar a leitura do artigo ou site em questão, você pode utilizar a ferramenta de tradução do Google para traduzir: sites, arquivos, textos.
@@ -210,75 +212,74 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 ## 📰 Sites de noticias de Cyber Security
 
-- [Bleeping Computer](https://www.bleepingcomputer.com/)
-- [Malwarebytes Blog](https://www.malwarebytes.com/blog)
-- [IT Security Guru](https://www.itsecurityguru.org/)
-- [Security Weekly](https://securityweekly.com/)
-- [The Hacker News](https://thehackernews.com/)
-- [Infosecurity Magazine](https://www.infosecurity-magazine.com/)
-- [CSO Online](https://www.csoonline.com/)
-- [The State of Security - Tripwire](https://www.tripwire.com/state-of-security/)
-- [The Last Watchdog](https://www.lastwatchdog.com/)
-- [Naked Security](https://nakedsecurity.sophos.com/)
-- [Graham Cluley](https://grahamcluley.com/)
-- [Cyber Magazine](https://cybermagazine.com/)
-- [WeLiveSecurity](https://www.welivesecurity.com/br/)
-- [Dark Reading](https://www.darkreading.com/)
-- [Threatpost](https://threatpost.com/)
-- [Krebs on Security](https://krebsonsecurity.com/)
-- [Help Net Security](https://www.helpnetsecurity.com/)
-- [HackRead](https://www.hackread.com/)
-- [SearchSecurity](https://www.techtarget.com/searchsecurity/)
-- [TechWorm](https://www.techworm.net/category/security-news)
-- [GBHackers On Security](https://gbhackers.com/)
-- [The CyberWire](https://thecyberwire.com/)
-- [Cyber Defense Magazine](https://www.cyberdefensemagazine.com/)
-- [Hacker Combat](https://hackercombat.com/)
-- [Cybers Guards](https://cybersguards.com/)
-- [Cybersecurity Insiders](https://www.cybersecurity-insiders.com/)
-- [Information Security Buzz](https://informationsecuritybuzz.com/)
-- [The Security Ledger](https://securityledger.com/)
-- [Security Gladiators](https://securitygladiators.com/)
-- [Infosec Land](https://pentester.land/)
-- [Cyber Security Review](https://www.cybersecurity-review.com/)
-- [Comodo News](https://blog.comodo.com/)
-- [Internet Storm Center | SANS](https://isc.sans.edu/)
-- [Daniel Miessler](https://danielmiessler.com/)
-- [TaoSecurity](https://www.taosecurity.com/)
-- [Reddit](https://www.reddit.com/search/?q=Security%20news)
 - [All InfoSec News](https://allinfosecnews.com/)
-- [CVE Trends](https://cvetrends.com/)
-- [Securibee](https://securib.ee/)
-- [threatABLE](https://www.threatable.io/)
-- [Troy Hunt Blog](https://www.troyhunt.com/)
+- [Bleeping Computer](https://www.bleepingcomputer.com/)
+- [Comodo News](https://blog.comodo.com/)
+- [CSO Online](https://www.csoonline.com/)
+- [Cyber Defense Magazine](https://www.cyberdefensemagazine.com/)
+- [Cyber Magazine](https://cybermagazine.com/)
+- [Cyber Security Review](https://www.cybersecurity-review.com/)
+- [Cybersecurity Insiders](https://www.cybersecurity-insiders.com/)
+- [Cybers Guards](https://cybersguards.com/)
+- [Daniel Miessler](https://danielmiessler.com/)
+- [Dark Reading](https://www.darkreading.com/)
 - [Errata Security](https://blog.erratasec.com/)
+- [GBHackers On Security](https://gbhackers.com/)
+- [Graham Cluley](https://grahamcluley.com/)
+- [HackRead](https://www.hackread.com/)
+- [Hacker Combat](https://hackercombat.com/)
+- [Help Net Security](https://www.helpnetsecurity.com/)
+- [Infosec Land](https://pentester.land/)
+- [Infosecurity Magazine](https://www.infosecurity-magazine.com/)
+- [Information Security Buzz](https://informationsecuritybuzz.com/)
+- [Internet Storm Center | SANS](https://isc.sans.edu/)
+- [IT Security Guru](https://www.itsecurityguru.org/)
+- [Krebs on Security](https://krebsonsecurity.com/)
+- [Malwarebytes Blog](https://www.malwarebytes.com/blog)
+- [Naked Security](https://nakedsecurity.sophos.com/)
+- [Reddit](https://www.reddit.com/search/?q=Security%20news)
+- [SearchSecurity](https://www.techtarget.com/searchsecurity/)
+- [Security Gladiators](https://securitygladiators.com/)
+- [Security Weekly](https://securityweekly.com/)
+- [Securibee](https://securib.ee/)
+- [TaoSecurity](https://www.taosecurity.com/)
+- [TechWorm](https://www.techworm.net/category/security-news)
+- [The CyberWire](https://thecyberwire.com/)
+- [The Hacker News](https://thehackernews.com/)
+- [The Last Watchdog](https://www.lastwatchdog.com/)
+- [The Security Ledger](https://securityledger.com/)
+- [The State of Security - Tripwire](https://www.tripwire.com/state-of-security/)
+- [threatABLE](https://www.threatable.io/)
+- [Threatpost](https://threatpost.com/)
+- [Troy Hunt Blog](https://www.troyhunt.com/)
+- [WeLiveSecurity](https://www.welivesecurity.com/br/)
 
 ## 📃 Newsletters de Cyber Security
 
+- [AdvisoryWeek](https://advisoryweek.com/) - Resumos de consultoria de segurança dos principais fornecedores.
 - [API Security Newsletter](https://apisecurity.io/) - Notícias e vulnerabilidades de segurança da API.
-- [Blockchain Threat Intelligence](https://newsletter.blockthreat.io/) - Ferramentas, eventos, ameaças.
-- [We Live Security](https://www.welivesecurity.com/br/) - Notícias, visualizações e insights premiados.
-- [SecPro](https://www.thesec.pro/) - Análise de ameaças, ataques e tutoriais.
-- [Gov Info Security](https://www.govinfosecurity.com/) - Notícias governamentais de segurança cibernética nacionais e internacionais.
-- [Threatpost](https://threatpost.com/newsletter-sign/) - Exploits, vulnerabilidades, malware e segurança cibernética.
 - [AWS Security Digest](https://awssecuritydigest.com/) - Atualizações de segurança da AWS.
-- [Krebs On Security](https://krebsonsecurity.com/subscribe/) - Jornalismo investigativo de segurança cibernética que é interessante.
-- [Risky Biz](https://risky.biz/subscribe/) - Análise de grandes histórias cibernéticas.
-- [Unsupervised Learning Community](https://danielmiessler.com/newsletter/) - Histórias importantes de segurança cibernética.
-- [Schneier on Security](https://www.schneier.com/) - Notícias e opiniões sobre segurança cibernética.
+- [Blockchain Threat Intelligence](https://newsletter.blockthreat.io/) - Ferramentas, eventos, ameaças.
+- [CSO Online](https://www.csoonline.com/newsletters/signup.html) - Notícias, análises e pesquisas sobre segurança e gerenciamento de riscos.
 - [CyberSecNewsWeekly](https://buttondown.email/CybersecNewsWeekly) - Coleção de notícias, artigos e ferramentas.
+- [Graham Cluley](https://grahamcluley.com/gchq-newsletter/) - Notícias e opiniões sobre segurança cibernética.
+- [Gov Info Security](https://www.govinfosecurity.com/) - Notícias governamentais de segurança cibernética nacionais e internacionais.
+- [Krebs On Security](https://krebsonsecurity.com/subscribe/) - Jornalismo investigativo de segurança cibernética que é interessante.
+- [Naked Security](https://nakedsecurity.sophos.com/) - Como se proteger de ataques.
+- [Risky Biz](https://risky.biz/subscribe/) - Análise de grandes histórias cibernéticas.
 - [RTCSec](https://www.rtcsec.com/newsletter/) - Notícias sobre segurança VOIP e WebRTC.
-- [This Week in 4n6](https://thisweekin4n6.com/) - Atualizações do DFIR.
+- [Schneier on Security](https://www.schneier.com/) - Notícias e opiniões sobre segurança cibernética.
+- [SecPro](https://www.thesec.pro/) - Análise de ameaças, ataques e tutoriais.
 - [Securibee Newsletter](https://securib.ee/newsletter/) - Notícias de segurança cibernética com curadoria.
 - [Shift Security Left](https://shift-security-left.curated.co/) - Segurança, arquitetura e incidentes de aplicativos.
-- [TripWire’s State of Security](https://www.tripwire.com/state-of-security/) - Notícias de segurança cibernética corporativa.
-- [Graham Cluley](https://grahamcluley.com/gchq-newsletter/) - Notícias e opiniões sobre segurança cibernética.
-- [Zero Day](https://zetter.substack.com/) - Histórias sobre hackers, espiões e crimes cibernéticos.
 - [The Hacker News](https://thehackernews.com/#email-outer) - Notícias de cibersegurança.
-- [CSO Online](https://www.csoonline.com/newsletters/signup.html) - Notícias, análises e pesquisas sobre segurança e gerenciamento de riscos.
-- [Naked Security](https://nakedsecurity.sophos.com/) - Como se proteger de ataques.
-- [AdvisoryWeek](https://advisoryweek.com/) - Resumos de consultoria de segurança dos principais fornecedores.
+- [This Week in 4n6](https://thisweekin4n6.com/) - Atualizações do DFIR.
+- [Threatpost](https://threatpost.com/newsletter-sign/) - Exploits, vulnerabilidades, malware e segurança cibernética.
 - [tl;dr sec Newsletter](https://tldrsec.com/) - Ferramentas, posts em blogs, conferências e pesquisas.
+- [TripWire’s State of Security](https://www.tripwire.com/state-of-security/) - Notícias de segurança cibernética corporativa.
+- [Unsupervised Learning Community](https://danielmiessler.com/newsletter/) - Histórias importantes de segurança cibernética.
+- [We Live Security](https://www.welivesecurity.com/br/) - Notícias, visualizações e insights premiados.
+- [Zero Day](https://zetter.substack.com/) - Histórias sobre hackers, espiões e crimes cibernéticos.
 
 ## 🗃️ Awesome Hacking
 
@@ -516,20 +517,20 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 ## 📽️ Palestras
 
-- [Hardware Hacking e Bad USB - Leonardo La Rosa](https://www.youtube.com/watch?v=s25Fw69u9tM&ab_channel=MeninadeCybersec)
 - [Atribuições de Ataques na Visão de Cyber Threat Intelligence - Robson Silva](https://www.youtube.com/watch?v=JallvQuZXZA&ab_channel=MeninadeCybersec)
+- [Black Hat Python - Hacking, Programação e Red Team - Joas Antonio](https://youtu.be/EOulWqLHmjo)
+- [Certificações em Cibersegurança - Fábio Augusto](https://youtu.be/b7Pwl3RGo9E)
+- [Como se manter hacker num mundo de segurança - Thauan Santos](https://youtu.be/uo3STUx5mMk)
+- [Como se tornar um Hacker em um mundo de script kiddies - Rafael Sousa](https://youtu.be/veFyCTv5i3g)
 - [Defesa Cibernética - Milena Barboza](https://youtu.be/Sc1VQkN3xiw)
 - [DevSecOps Desenvolvimento Seguro - Michelle Mesquita](https://youtu.be/_ngBWBkq6wA)
-- [Linguagem de Baixo Nível, Assembly e binários - Carolina Trigo](https://youtu.be/CL51I8xzzf8)
-- [Segurança Ofensiva, Red Team e GRC - João Góes](https://youtu.be/q_moH0u9cFE)
-- [Como se manter hacker num mundo de segurança - Thauan Santos](https://youtu.be/uo3STUx5mMk)
-- [Hardware Hacking, Vulnerabilidades em RFID e NFC - Davi Mikael](https://youtu.be/zTv7JZpO-IA)
-- [Como se tornar um Hacker em um mundo de script kiddies - Rafael Sousa](https://youtu.be/veFyCTv5i3g)
-- [Black Hat Python - Hacking, Programação e Red Team - Joas Antonio](https://youtu.be/EOulWqLHmjo)
-- [Python 101 - André Castro](https://youtu.be/AGxleHdhY8Q)
 - [Engenharia Social e Humand Hacking - Marina Ciavatta](https://youtu.be/7mj2i2E5QMI)
-- [Certificações em Cibersegurança - Fábio Augusto](https://youtu.be/b7Pwl3RGo9E)
+- [Hardware Hacking e Bad USB - Leonardo La Rosa](https://www.youtube.com/watch?v=s25Fw69u9tM&ab_channel=MeninadeCybersec)
+- [Hardware Hacking, Vulnerabilidades em RFID e NFC - Davi Mikael](https://youtu.be/zTv7JZpO-IA)
+- [Linguagem de Baixo Nível, Assembly e binários - Carolina Trigo](https://youtu.be/CL51I8xzzf8)
 - [Mobile Security - Oryon Farias](https://youtu.be/oMmzSbaj3Gk)
+- [Python 101 - André Castro](https://youtu.be/AGxleHdhY8Q)
+- [Segurança Ofensiva, Red Team e GRC - João Góes](https://youtu.be/q_moH0u9cFE)
 
 ## 🃏 CheatSheets
 
